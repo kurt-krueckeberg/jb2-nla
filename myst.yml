@@ -1,0 +1,273 @@
+version: 1
+project:
+  title: Lower Saxony, Bückeburg Archive, Documents
+  authors:
+    - name: Kurt Krueckeberg
+  github: kurt-krueckeberg/sphinx-nla
+  bibliography:
+    - bueckeburg-docs.bib
+  references:
+    genealogy: https://gen.krueckeberg.org/
+  exclude:
+    - README.adoc
+    - todo.md
+    - app-setup.md
+    - big-pages.md
+    - claude-case-file-analysis.md
+    - creating-nla-citations.md
+    - vps-build/**
+    - nonarchive/**
+  exports:
+    - format: typst
+      template: plain_typst_book
+      output: exports/book.pdf
+      id: book-pdf
+  toc:
+    - file: root/index.md
+    - title: General Documents
+      children:
+        - file: general-docs/overview.md
+        - file: 2728/survey-1737.md
+          title: Householder Survey (1737)
+        - file: 2741/index.md
+          title: Property Holder Questioning (1743–1744)
+        - file: 2713/index.md
+          title: Evesen–Berenbusch–Nordholz Survey (1745)
+        - file: 140/index.md
+          title: Kolon List with House Numbers (1747)
+          children:
+            - file: 140/page-17.md
+    - title: Rentkammer Case Files
+      children:
+        - file: rentkammer/rentkammer-and-kolonat-system.md
+          title: Rentkammer Explained
+          children:
+            - file: rentkammer/staette-kolonat-kolon.md
+            - file: rentkammer/case-file-docs-explained.md
+              title: Case Files Explained
+            - file: rentkammer/workflow.md
+            - file: rentkammer/terms.md
+              title: Rentkammer Terms
+        - file: 1237/index.md
+          title: Krückeberg No. 10 Berenbusch Land Enlargement Request
+          children:
+            - file: 1237/cover.md
+            - file: 1237/content.md
+              children:
+                - file: 1237/doc1.md
+                  title: Tailor Krückeberg Petition
+                - file: 1237/doc2.md
+                  title: Report of Bückeburg Office
+                - file: 1237/doc3.md
+                  title: Rentkammer Decision
+                - file: 1237/doc4.md
+                  title: Report of Bückeburg Office
+                - file: 1237/doc4pt5.md
+                  title: Drawing of Two Parcels
+                - file: 1237/reminder-note.md
+                - file: 1237/doc5.md
+                  title: Rentkammer Decision
+                - file: 1237/doc6.md
+        - file: 1291/index.md
+          title: >-
+            Allotments to Krückeberg no. 10 & Einliegers Vogt & Nordholz (1817 -
+            1818)
+          children:
+            - file: 1291/cover.md
+            - file: 1291/content.md
+              children:
+                - file: 1291/doc1.md
+                  title: Krückeberg no. 10 Berenbush Petition
+                - file: 1291/doc2.md
+                  title: Forestry Dept. Report
+                - file: 1291/doc3.md
+                  title: Official Decision
+                - file: 1291/doc4.md
+                  title: Petition of lodger Vogt
+                - file: 1291/doc5.md
+                  title: Petition of soldier Brüggemann
+                - file: 1291/doc6.md
+                  title: Report of local office
+                - file: 1291/doc7.md
+                  title: Official Reply to local office
+                - file: 1291/doc8.md
+                  title: Report of local office
+                - file: 1291/doc9.md
+                  title: Official Decision of Princely Finance Office
+                - file: 1291/doc10.md
+                  title: Petition of Vogt from Nordholz
+                - file: 1291/doc11.md
+                  title: Report of local office with drawing
+                - file: 1291/doc12.md
+                  title: Official Decision
+                - file: 1291/doc13.md
+                - file: 1291/doc14.md
+                  title: Petition of Brüggemann
+                - file: 1291/doc15.md
+                  title: Finance Office Decision on Brüggerman
+                - file: 1291/doc16.md
+                  title: Krückeberg Petition
+                - file: 1291/doc17.md
+                  title: Finance Office Decision on Krückeberg
+                - file: 1291/doc18.md
+                - file: 1291/doc19.md
+                  title: Krückeberg Purchase Contract
+                - file: 1291/doc20.md
+                  title: Finance Office Decision on Vogt
+                - file: 1291/doc21.md
+                - file: 1291/doc22.md
+                  title: Brüggemann Purchase Contract
+        - file: 146/index.md
+          title: Site No. 18 Berenbusch, 1808-1850
+          children:
+            - file: 146/cover.md
+            - file: 146/content.md
+              title: Table of Contents (1808-1810)
+              children:
+                - file: 146/doc1-analysis.md
+                - file: 146/doc1-2nd-analysis.md
+                - file: 146/doc1.md
+                  title: Tailor Krückeberg Petition
+                - file: 146/doc2.md
+                  title: Bückeberg Office Report
+                - file: 146/doc3.md
+                  title: Rentkammer Decision
+                - file: 146/doc4.md
+                  title: Bückeberg Office Report
+                - file: 146/doc5.md
+                  title: Rentkammer Decision
+                - file: 146/doc6.md
+                  title: Bückeberg Office Report
+                - file: 146/ad6-survey-drawing.md
+                  title: Geometric Drawing
+                - file: 146/doc7.md
+                  title: Rentkammer Decision
+                - file: 146/doc8.md
+                  title: Petition of Krückeberg's Wife
+                - file: 146/doc9.md
+                  title: Rentkammer Decree
+                - file: 146/doc10.md
+                  title: Certificate Issued
+                - file: 146/doc11.md
+                  title: Purchase Deed
+            - file: 146/other-docs.md
+              title: Other Documents (1850)
+              children:
+                - file: 146/overview-other-docs.md
+                - file: 146/petition-to-sell-cover-sheet.md
+                - file: 146/carl-fried-supplication-to-sell.md
+                  title: Krückeberg Request to Sell (Sept. 1850)
+                - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
+                  title: Recorded at the Bückeburg District Office
+                - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
+                  title: Report from the Bückeberg Office
+                - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
+                  title: Report from the Bückeberg Office
+                - file: 146/report-to-bueckeburg-amt-9-26-50.md
+                  title: Report to the Bückeburg Office
+                - file: 146/copia.md
+                  title: Purchase Contract Copy
+        - file: 147/index.md
+          title: >-
+            Holding No. 19 Berenbusch (1819-1820) in particular concerning the
+            new settler holding of Triftmeyer No. 19 at Bärenbusch
+          children:
+            - file: 147/cover.md
+            - file: 147/content.md
+              children:
+                - file: 147/doc5.md
+                  title: Report of Bückeburg district office
+        - file: 139/index.md
+          children:
+            - file: 139/cover.md
+            - file: 139/content.md
+              children:
+                - file: 139/doc1-1.md
+                  title: Petition of the widow Krückeberg
+                - file: 139/doc1-2.md
+                  title: Report from Bückeburg Office
+                - file: 139/doc1-3.md
+                  title: Official Reply to Widow Krückeberg
+                - file: 139/doc1-4.md
+                  title: Likewise Sealed by Schmöe, Kahlhuth and Creuzinger
+                - file: 139/doc1-5.md
+                  title: Report of Bückeburg district office
+                - file: 139/doc2.md
+                  title: Report of Bückeburg office
+            - file: 139/other-docs.md
+              title: Sale-Related Documents (1849)
+              children:
+                - file: 139/jh-krueckeberg-petition-to-sell.md
+                  title: Colon Krückeberg Petition to Sell
+                - file: >-
+                    139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
+                  title: Report of Bückeburg District Office on Krückeberg Petition
+                - file: >-
+                    139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md
+                  title: Rentkammer Instruction Regarding Sale, no. 10 Berenbusch
+                - file: 139/actum-bueckeburg-amt-21-aug-1849.md
+                  title: Hearing Confirming Sale of no. 10 Berenbusch
+                - file: 139/amt-report-22-aug-1849.md
+                  title: >-
+                    Report from the Bückeburg District Office Concerning the
+                    Sale
+                - file: 139/petition-to-sell-his-holding-23-aug-1849.md
+                  title: Permission Granted for Sale
+                - file: 139/sales-contract-for-no-10.md
+                  title: Purchase Contract
+        - file: 689/index.md
+          title: Loan to Krückeberg no. 10 Berenbusch (1841-1845)
+          children:
+            - file: 689/cover.md
+            - file: 689/content.md
+              children:
+                - file: 689/amt-decree.md
+                - file: 689/doc1.md
+                  title: Petition of Colon Krückeberg No. 10 in Berenbusch
+                - file: 689/doc2-1.md
+                  title: Petition of Colon Krückeberg No. 10 in Berenbusch
+                - file: 689/doc2-2.md
+                  title: Rentkammer Decision to Bückeburg District Office
+                - file: 689/doc3-1.md
+                  title: Petition of Colon Krückeberg
+                - file: 689/doc3-2.md
+                - file: 689/doc3-3.md
+                - file: 689/doc4-1.md
+                - file: 689/doc4-2.md
+                  title: Official Order of the Chamber to Officer Creuzinger
+                - file: 689/doc5.md
+                  title: Report of Officer Creuzinger on Söhren pasture
+                - file: 689/doc6-1.md
+                  title: Advisory Opinion of Councillor Reck
+                - file: 689/doc6-2.md
+                  title: Official order of His Serene Highness
+                - file: 689/doc6-3.md
+                  title: Filing note by Councillor Reck
+                - file: 689/doc7.md
+                  title: Official Order of the Chamber to Bückeburg Office
+                - file: 689/doc8-1.md
+                - file: 689/doc8-2.md
+                  title: Official Order of the Chamber to the Office of Bückeburg
+                - file: 689/doc8-3.md
+                  title: Official Order to Treasurer Berger
+                - file: 689/doc9.md
+                - file: 689/doc10.md
+                  title: Promissory Note for 200 Reichsthaler (Follow-ups)
+        - file: 188/index.md
+          title: Sale of the Krückeberg property no. 18 in Berenbusch
+          children:
+            - file: 188/cover.md
+            - file: 188/doc1.md
+            - file: 188/doc2.md
+            - file: 188/doc3.md
+            - file: 188/doc4.md
+    - title: Maps in Case Files
+      children:
+        - file: maps/map-list.md
+site:
+  options:
+    folders: true
+    style: _static/overrides.css
+    logo: _static/myst-style-light-bueckeburg-archive.svg
+    logo_dark: _static/myst-style-dark-bueckeburg-archive.svg
+  template: book-theme

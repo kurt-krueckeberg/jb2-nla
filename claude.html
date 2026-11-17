@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>claude-case-file-analysis</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1 id="claude-analysis">Claude Analysis</h1>
+<p>Starting with the Context doc and the repository: reading the folder
+list, then comparing each folder’s <code>_toc.yml</code> entries and
+markdown content.</p>
+<p><strong>Result:</strong> the <code>_toc.yml</code> is consistent only
+at the top level, and folder 139 is the best model. I changed nothing in
+the repository.</p>
+<h2 id="navigation-consistency">Navigation consistency</h2>
+<p>All seven folders start with <code>index</code> → <code>cover</code>
+→ <code>content</code> (188 has no <code>content</code> because it has
+no Designatio Actorum). Below that they diverge:</p>
+<ul>
+<li><strong>Chapter titles:</strong> each uses a different form. 1237
+and 188 carry no dates, 146 puts the dates after a comma, 147 is two
+lines long, and 139 has no <code>title:</code> at all.</li>
+<li><strong>Document titles:</strong> none carry dates. Many entries
+have no title (1237/doc6, 1291/doc13, 18 and 21, eight in 689, all of
+188), so the sidebar falls back to long H1 headings.</li>
+<li><strong>Order:</strong> 146 puts two analysis pages ahead of
+Document 1, and 689 puts <code>amt-decree</code> ahead of Document
+1.</li>
+<li><strong>Later documents:</strong> 139 and 146 group them under
+<code>other-docs</code>; no other folder has such a group.</li>
+<li><strong>Orphans:</strong> 19 pages are in no toc: 13 in 689, 4 in
+188 and 2 in 1237.</li>
+</ul>
+<h2 id="best-folder-139">Best folder: 139</h2>
+<p>Its <code>index.md</code> is the only landing page that tells a
+layman, in order, what the file is about, who is involved, the outcome
+and the timeline. It opens with two plain paragraphs (the widow’s 1824
+petition and the 1849 sale before emigration), then a facts table, then
+a dated timeline. Its document pages also carry dates in their headings
+and nearly all open with a summary.</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Folder</th>
+<th>Landing page now</th>
+<th>Main gap</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>139</td>
+<td>Overview, facts table, timeline</td>
+<td>Timeline stops at 1824; the 1849 sale is missing</td>
+</tr>
+<tr>
+<td>1237</td>
+<td>Regency background, then a 10-step narrative</td>
+<td>Timeline table starts at Document 3; no facts table</td>
+</tr>
+<tr>
+<td>689</td>
+<td>Regency background, then a timeline</td>
+<td>Never says plainly what the case is; 13 orphan pages</td>
+</tr>
+<tr>
+<td>146</td>
+<td>Argument that there were two Jobst Heinrichs</td>
+<td>Identity analysis, not a case overview; no timeline</td>
+</tr>
+<tr>
+<td>1291</td>
+<td>“TODO”</td>
+<td>No overview; almost no page summaries</td>
+</tr>
+<tr>
+<td>147</td>
+<td>Three sentences</td>
+<td>No facts table or timeline</td>
+</tr>
+<tr>
+<td>188</td>
+<td>Pointer to 146</td>
+<td>Documents untitled; <code>doc5</code> unfinished</td>
+</tr>
+</tbody>
+</table>
+<h2 id="recommendations">Recommendations</h2>
+<ol type="1">
+<li><strong>139:</strong> extend the timeline through September 1849,
+add a <code>title:</code> in the toc, and rename “Other Documents” to
+“Sale Documents (1849)”.</li>
+<li><strong>1237:</strong> move the regency section to “Rentkammer
+Explained”. Rebuild the timeline as one row per event starting 29 May
+1798, with a link to each document. Fold the ten narrative sections into
+the document pages.</li>
+<li><strong>689:</strong> replace the opening with two paragraphs on the
+debt to Hempel &amp; Söhne and the 200 Reichsthaler loan. Keep the
+timeline. Move <code>amt-decree</code> and the service slip into a
+“Background documents” group, and put the numbering and analysis pages
+in a final “Supplementary notes” group or delete them.</li>
+<li><strong>146:</strong> move the two-Jobst-Heinrichs argument to its
+own page at the end, together with the two Document 1 analyses. Write a
+139-style overview covering 1808–1810 and the 1850 sale.</li>
+<li><strong>1291:</strong> write the overview from scratch. It has three
+petitioners (Krückeberg, Vogt, Brüggemann), so the timeline needs a
+“Party” column.</li>
+<li><strong>147:</strong> nest <code>doc5</code> under
+<code>content</code>, add the facts table, and say in the overview that
+only Document 5 is transcribed.</li>
+<li><strong>188:</strong> keep it short, add the facts table and toc
+titles, and either finish or drop <code>doc5</code>,
+<code>3-right</code> and <code>last-page</code>.</li>
+<li><strong>All folders:</strong> use one chapter title form, “Subject,
+No. X Berenbusch (years)”, and one document title form, “Type of
+document (date)”.</li>
+</ol>
+<h2 id="errors-found-along-the-way">Errors found along the way</h2>
+<ul>
+<li><strong><code>139/other-docs.md</code>:</strong> says the sale was
+in 1850 and its table caption says no. 18; the pages it lists are dated
+1849 and concern no. 10.</li>
+<li><strong><code>139/content.md</code>:</strong> says the documents are
+from 1822; they are from 1824.</li>
+<li><strong><code>1237/content.md</code>:</strong> the English link for
+item 2 points to <code>doc3.md</code>, and item 3 is dated 1800 where
+the index says 1799.</li>
+<li><strong><code>146/content.md</code>:</strong> item 2 links to
+<code>doc1.md</code> and item 11 links to <code>doc10.md</code>.</li>
+</ul>
+<p><code>claude-case-file-analysis.md</code> in the repository already
+recommends the same pattern, but its description of the current state is
+out of date (it mentions <code>intro.md</code> and
+<code>timeline.md</code> pages that no longer exist).</p>
+<p>Which folder should I restructure first? I suggest 1237, since its
+content already exists and only needs rearranging.</p>
+</body>
+</html>
