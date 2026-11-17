@@ -3,24 +3,9 @@
 # =========================
 build_errors.txt
 .venv/
-venv/
-env/
 __pycache__/
 *.py[cod]
 *$py.class
-
-# =========================
-# Sphinx build output
-# =========================
-_build/
-build/
-dist/
-
-# =========================
-# Sphinx cache / temp
-# =========================
-.doctrees/
-*.doctree
 
 # =========================
 # OS / editor junk
