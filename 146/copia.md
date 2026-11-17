@@ -1,0 +1,209 @@
+# Copy of Purchase Contract for Stätte No. 18 in Berenbusch (1850)
+
+## Summary
+
+This 1850 contract records the approved sale of the hereditary holding
+(Stätte) No. 18 in Berenbusch by the colonus Krückeberg to the shoemaker and
+lodger Wilhelm Meÿer for a price of 550 thalers in current coin. The property
+comprised a dwelling house, courtyard, and garden, together with all
+fixtures, trees, and appurtenant rights, but without any guarantee as to the
+stated size of the garden. From the date of takeover, the buyer assumed all
+attached burdens, including monetary dues, payments in kind, labor
+obligations, and communal, church, and school charges, whether listed
+explicitly or not. Delivery occurred immediately upon execution of the
+contract, with costs borne by the buyer, and both parties waived any legal
+objections. The agreement received judicial confirmation and was to be
+submitted to the Princely Rent Chamber for final approval.
+
+## Images
+
+```{figure} images/22-r.png
+:class: image-override
+```
+
+```{figure} images/23-l.png
+:class: image-override
+```
+
+```{figure} images/23-r.png
+:class: image-override
+```
+
+```{figure} images/24-l.png
+:class: image-override
+```
+
+
+```{note}
+In the third paragraph below,
+“= indicates repetition; ‘wandband- und nagelfest’ = fixtures attached to walls and
+by nails.”
+```
+
+## Transliteration
+
+```{div}
+:class: doc-text
+Copie
+
+Kund und um wissen sei hiermit, d[aß] zwischen dem Colon
+Krückeberg No 18 zu Berenbusch und dem Schuster Einlieger
+Wilhelm Meÿer auf No. 41 in Cammer mit Genehmigung Fürstlicher
+Rentkammer dem nachstehende Kaufcontract verhandelt und
+abgeschlossen ist.
+
+I.
+
+Die Stätte No. 18 zu Berenbusch, welche aus einen Wohnhause,
+kleine Hofraume und nebengelegene Garten von etwa eines
+Morgens Größe besteht, wird von dem Colonen Krückeberg unter
+den bestehenden bauerrechtlichen Verhältnissen für den
+Kaufpreis von Fünfhundert funfzig Thaler Courant an den
+Schuster Einlieger Wilhelm Meyer verkauft.
+
+II.
+
+Das Wohnhaus wird verkauft mit Allem, was daran erd-, wandband-,
+niet- und nagelfest ist, desgleichen mit dem Ofen und den
+auf der Boden-Statt Beschusses etwa lose liegenden Dielen und
+Pfosten. Den Hofraum und Garten erhält Käufer mit den darauf
+befindlichen Bäumen und den Einfriedigungen.
+
+III.
+
+Für die unter I. angegebene Größe des Gartens wird keine
+Gewähr geleistet.
+
+IV.
+
+Die Lasten der Stätte, welche bestehen in
+
+1. 1 Rthl 1 g Dienstgeld pro Jahr
+2. 10 g 2 d Rottmis
+3. 6 g Mahlschweingeld
+4. 1 g Michaelisschatz
+5. 1 Rauchhuhn
+6. 5 Erntetage
+7. 2 mg 2 d Contribution pro Simpla
+8. Landfolgen
+9. Gemeinde-, Kirchen- und Schullaste
+
+hat Käufer, so wie sie vom Tage der Stätte-Übernahme an fällig
+werden zu tragen, und wenn eine oder die andere Last in
+Vorstehendem nicht richtig oder gar nicht angegeben sein
+sollte, auch diese zu übernehmen. Imgleichen gehen aber auch
+alle der Stätte anklebenden Gerechtigkeiten auf den Käufer
+über.
+
+V.
+
+Die Übergabe der Stätte erfolgt sofort bei Aushändigung des
+Contracts und hat Käufer zu gleicher Zeit den Kaufpreis mit
+550 Rthlr in groben Cour[ant] zu berichtigen.
+
+VI.
+
+Die Kusten[Kosten] des Kaufcontracts trägt Käufer.
+
+VII.
+
+Beide Theile entsagen allen diesem Contracte etwa
+entgegenstehenden Einreden, insonderheit den Einreden des
+Betrugs, Irrthums, Zwangs, der anders niedergeschriebenen als
+verabredeten Sache, der Verletzung unter oder über die Hälfte
+und welchen Namen für sonst haben mögen.
+
+Da amtsseitig bei dem Vertrage Etwas nicht zu erinnern ist, so
+wird die gerichtliche Bestätigung dazu andurch ertheilt, und
+soll derselbe nach geschehener Vollziehung der Fürstl.
+Rentkammer zu höhern Bestätigung vorgelegt werden.
+
+So geschehen Bückeburg 26 Sept 1850
+
+unter[screiben] Krückeberg ᐧ Meier\
+Fürstlich Schamb. Lipp. Amt
+
+gez. Lagerfeldt Krieger König\
+(L. S.)
+```
+
+## Translation
+
+```{div}
+:class: doc-text
+Copy
+
+Be it hereby made known and for all to know that, between Krückeberg, holder
+of hereditary holding No. 18 in Berenbusch, and the shoemaker and lodger
+Wilhelm Meÿer of No. 41 in Cammer, with the approval of the Princely Rent
+Chamber, the following purchase contract has been negotiated and concluded.
+
+I.
+
+The holding No. 18 in Berenbusch, consisting of a dwelling house, a small
+courtyard, and an adjoining garden of approximately one Morgen in size,
+is sold by the colonus Krückeberg to the shoemaker and lodger Wilhelm
+Meyer, under the existing agrarian (tenurial) conditions, for the purchase
+price of five hundred fifty thalers in current money.
+
+II.
+
+The dwelling house is sold with all attached fixtures—that is, everything
+fixed in place as part of the structure—as well as the stove and any loose
+boards and posts lying in the floor or attic-floor area. The buyer also
+receives the yard and garden, together with the trees located there and the
+enclosures.
+
+III.
+
+No guarantee is given for the size of the garden stated under Article I.
+
+IV.
+
+The burdens attached to the holding, which consist of:
+
+1. 1 thaler 1 groschen annual service money,
+2. 10 groschen 2 pfennigs Rottmis,
+3. 6 groschen milling fee (Mahlschweingeld),
+4. 1 groschen Michaelmas due,
+5. 1 hen,
+6. 5 harvest labor days,
+7. 2 Mariengroschen 2 pfennigs contribution per assessment unit,
+8. customary land obligations,
+9. municipal, church, and school dues,
+
+shall be borne by the buyer as they fall due from the day of the takeover
+of the holding; and should one or another burden not be correctly stated
+above, or not stated at all, the buyer shall likewise assume it. Likewise,
+all rights appurtenant to the holding pass to the buyer.
+
+V.
+
+The transfer of the holding takes place immediately upon delivery of
+this contract, and at the same time the buyer is to pay the purchase price
+of 550 thalers in current coin.
+
+VI.
+
+The costs of this purchase contract are borne by the buyer.
+
+VII.
+
+Both parties waive all objections that might be raised against this
+contract, especially objections based on fraud, mistake, duress, the
+agreement having been written down differently from what was agreed, or the
+claim that the agreed price was wildly unfair compared with the property’s
+real value, as well as any such objections by whatever other name.
+
+Since, on the part of the Amt, there is nothing to object to in the
+contract, judicial confirmation is hereby granted to it, and after its
+execution it shall be submitted to the Princely Rentkammer for higher
+confirmation.
+
+Done at Bückeburg, 26 September 1850.
+
+Signed: Krückeberg. Meier.
+Princely Schaumburg-Lippe Amt.
+
+Signed: Lagerfeldt, Krieger, König.
+[Seal]
