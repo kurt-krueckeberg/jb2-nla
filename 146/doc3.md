@@ -24,15 +24,14 @@ They are to inform Jobst Heinrich of these conditions and terms.
 
 ## Transliteration
 
-```{div}
-:class: doc-text
+```{div} doc-text
 Ad N. 287.\
 C. K. [Cammer-Kanzlei] Rescripts ans Amt Bückeburg
 
 Expedirt\
 Beyer
 
-V. G. G.[Von Gottes Gnaden]
+V[on] G[ottes] G[naden]
 
 Auf Euren Bericht vom 21ten d.
 M. die Neubauerung †  betr:, unverhalten wir, daß die Ausweisung des
@@ -69,8 +68,7 @@ reply to a petition or report.
 
 ## Translation
 
-```{div}
-:class: doc-text
+```{div} doc-text
 Re: No. 287.
 
 Official order from the Rentkammer to the Bückeburg Office
