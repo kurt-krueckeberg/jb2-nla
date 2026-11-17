@@ -6,8 +6,22 @@ transliterations and translations of Schaumburg-Lippe Rentkammer case files
 from the Bückeburg branch of the Lower Saxony state archive.
 
 All configuration, including the table of contents and the PDF export, is in `myst.yml`.
-Tables with cells spanning rows or columns use the `flat-table` directive,
-provided by the plugin `flat-table.mjs`.
+
+## The flat-table plugin
+
+Tables with cells spanning rows or columns use the `flat-table` directive from
+the JB1 project, written exactly as before with `{rspan}` and `{cspan}`. MyST has
+no such directive, so it is provided by the plugin `flat-table.mjs` in the
+repository root, which `myst.yml` loads:
+
+```yaml
+project:
+  plugins:
+    - flat-table.mjs
+```
+
+The plugin turns each flat-table into a native MyST table with the row and
+column spans set, so the spans appear on the website and in the Typst PDF.
 
 ## Requirements
 
