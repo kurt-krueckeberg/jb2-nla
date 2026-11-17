@@ -7,125 +7,154 @@
 ```
 
 
-<table class="no-zebra-rowspan-table">
-<thead>
-<tr>
-<th>No.</th>
-<th>Designatio Actorum</th>
-<th>(Topic)</th>
-<th>Ort.</th>
-<th>Jahr</th>
-<th>Monat</th>
-<th>Tag</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1.</td>
-<td><p>Petition of the lodger Driftmeier at No. 5 in Berenbusch, with chamber resolution.</p>
-<p>Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam</p></td>
-<td rowspan="8"><p>Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.</p>
-<p>Ausweisung vom Forstgründe für den Einlieger Triftmeier beÿ No. 5. zu Berenbusch betr.</p></td>
-<td><p>Bückeburg</p>
-<p>Bburg</p></td>
-<td><p>1819</p>
-<p>1819</p></td>
-<td><p>Feb.</p>
-<p>Febr.</p></td>
-<td><p>22</p>
-<p>22.</p></td>
-</tr>
-<tr>
-<td>2.</td>
-<td><p>Report of the local office.</p>
-<p>Bericht hiesigen Amts.</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>Apr.</p>
-<p>Apr.</p></td>
-<td><p>19</p>
-<p>19</p></td>
-</tr>
-<tr>
-<td>3.</td>
-<td><p>Draft royal rescript issued from the office here.</p>
-<p>Conc. K. Rescript aus Amt dahier.</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>May</p>
-<p>Maÿ</p></td>
-<td><p>4</p>
-<p>4</p></td>
-</tr>
-<tr>
-<td>4.</td>
-<td><p>Petition of the colonist Niemann No. 2 in Berenbusch, with chamber resolution.</p>
-<p>Vorstellung des Colons Niemann No. 2. zu Berenbusch, cum Res. Cam.</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>June</p>
-<p>Junÿ</p></td>
-<td><p>14</p>
-<p>14</p></td>
-</tr>
-<tr>
-<td>5.</td>
-<td><p><a href="doc5.md">Report of the Bückeburg office together with an attached drawing</a>.</p>
-<p>Bericht des Amts Bückeburg, samt Anlage einer Zeichnung</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>October</p>
-<p>October</p></td>
-<td><p>29</p>
-<p>29</p></td>
-</tr>
-<tr>
-<td>6.</td>
-<td><p>Draft royal rescript to the office here; likewise to the chamber treasury.</p>
-<p>Conc. K. Rescript ans Amt dahier. desgl. an die Kammercasse.</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>November</p>
-<p>November</p></td>
-<td><p>22</p>
-<p>22</p></td>
-</tr>
-<tr>
-<td>7.</td>
-<td><p>Chamber treasury receipt.</p>
-<p>Kammercassenquitung</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>Dec.</p>
-<p>Decbr.</p></td>
-<td><p>30</p>
-<p>30</p></td>
-</tr>
-<tr>
-<td>8.</td>
-<td><p>Draft purchase contract for the lodger Triftmeier at No. 5 in Bärenbusch.</p>
-<p>Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch</p></td>
-<td><p>&quot;</p>
-<p>&quot;</p></td>
-<td><p>1820</p>
-<p>1820</p></td>
-<td><p>Apr.</p>
-<p>Apr.</p></td>
-<td><p>20</p>
-<p>20</p></td>
-</tr>
-</tbody>
-</table>
+```{list-table}
+:class: no-zebra-rowspan-table
+:header-rows: 1
+
+* - No.
+  - Designatio Actorum
+  - (Topic)
+  - Ort.
+  - Jahr
+  - Monat
+  - Tag
+* - 1\.
+  - Petition of the lodger Driftmeier at No. 5 in Berenbusch, with chamber resolution.
+    
+    Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam
+  - Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
+    
+    Ausweisung vom Forstgründe für den Einlieger Triftmeier beÿ No. 5. zu Berenbusch betr.
+  - Bückeburg
+    
+    Bburg
+  - 1819
+    
+    1819
+  - Feb.
+    
+    Febr.
+  - 22
+    
+    22\.
+* - 2\.
+  - Report of the local office.
+    
+    Bericht hiesigen Amts.
+  -
+  - "
+    
+    "
+  - "
+    
+    "
+  - Apr.
+    
+    Apr.
+  - 19
+    
+    19
+* - 3\.
+  - Draft royal rescript issued from the office here.
+    
+    Conc. K. Rescript aus Amt dahier.
+  -
+  - "
+    
+    "
+  - "
+    
+    "
+  - May
+    
+    Maÿ
+  - 4
+    
+    4
+* - 4\.
+  - Petition of the colonist Niemann No. 2 in Berenbusch, with chamber resolution.
+    
+    Vorstellung des Colons Niemann No. 2. zu Berenbusch, cum Res. Cam.
+  -
+  - "
+    
+    "
+  - "
+    
+    "
+  - June
+    
+    Junÿ
+  - 14
+    
+    14
+* - 5\.
+  - [Report of the Bückeburg office together with an attached drawing](doc5.md).
+    
+    Bericht des Amts Bückeburg, samt Anlage einer Zeichnung
+  -
+  - "
+    
+    "
+  - "
+    
+    "
+  - October
+    
+    October
+  - 29
+    
+    29
+* - 6\.
+  - Draft royal rescript to the office here; likewise to the chamber treasury.
+    
+    Conc. K. Rescript ans Amt dahier. desgl. an die Kammercasse.
+  -
+  - "
+    
+    "
+  - "
+    
+    "
+  - November
+    
+    November
+  - 22
+    
+    22
+* - 7\.
+  - Chamber treasury receipt.
+    
+    Kammercassenquitung
+  -
+  - "
+    
+    "
+  - "
+    
+    "
+  - Dec.
+    
+    Decbr.
+  - 30
+    
+    30
+* - 8\.
+  - Draft purchase contract for the lodger Triftmeier at No. 5 in Bärenbusch.
+    
+    Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch
+  -
+  - "
+    
+    "
+  - 1820
+    
+    1820
+  - Apr.
+    
+    Apr.
+  - 20
+    
+    20
+```
 

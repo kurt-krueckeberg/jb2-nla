@@ -156,91 +156,74 @@ Habicht ᐧ Neufsel
 
 an Kammeral Prestanden
 
-<table class="no-zebra-rowspan-table">
-<thead>
-<tr>
-<th>Person</th>
-<th>Description</th>
-<th>rl</th>
-<th>g</th>
-<th>d</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Krückeberg no 10 zu Berenbusch (auch Michaeli 1819)</td>
-<td>Rottzins</td>
-<td></td>
-<td>4</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="8">Vogt no 13 zu Nordholz für Haus und Gartenplatz
-(auch Michaeli a 1823)</td>
-<td>Rottzins</td>
-<td></td>
-<td>17</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Mahlschweingeld</td>
-<td></td>
-<td>6</td>
-<td></td>
-</tr>
-<tr>
-<td>Michaelischatz</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>Dienstgeld</td>
-<td>1</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Ein Rauchhuhn</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>fünf Erntetage</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Jagden Wachten</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Landfolgen.</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">Neubauer Brüggemann no 14 zu
-Nordholz für Haus und Gartenplatz
-(Michaeli 1823)</td>
-<td>Rottzins</td>
-<td></td>
-<td>16</td>
-<td>2</td>
-</tr>
-<tr>
-<td>übrige Prestanden wie der vorige</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```{list-table}
+:class: no-zebra-rowspan-table
+:header-rows: 1
+
+* - Person
+  - Description
+  - rl
+  - g
+  - d
+* - Krückeberg no 10 zu Berenbusch (auch Michaeli 1819)
+  - Rottzins
+  -
+  - 4
+  - 1
+* - Vogt no 13 zu Nordholz für Haus und Gartenplatz
+    (auch Michaeli a 1823)
+  - Rottzins
+  -
+  - 17
+  - 5
+* -
+  - Mahlschweingeld
+  -
+  - 6
+  -
+* -
+  - Michaelischatz
+  -
+  - 1
+  -
+* -
+  - Dienstgeld
+  - 1
+  -
+  -
+* -
+  - Ein Rauchhuhn
+  -
+  -
+  -
+* -
+  - fünf Erntetage
+  -
+  -
+  -
+* -
+  - Jagden Wachten
+  -
+  -
+  -
+* -
+  - Landfolgen.
+  -
+  -
+  -
+* - Neubauer Brüggemann no 14 zu
+    Nordholz für Haus und Gartenplatz
+    (Michaeli 1823)
+  - Rottzins
+  -
+  - 16
+  - 2
+* -
+  - übrige Prestanden wie der vorige
+  -
+  -
+  -
+```
 
 ### Specification’s Transliteration
 
@@ -387,91 +370,74 @@ Habicht ᐧ Neufsel\
 
 Kammeral dues table in text
 
-<table class="no-zebra-rowspan-table">
-<thead>
-<tr>
-<th>Person</th>
-<th>Description</th>
-<th>rl</th>
-<th>g</th>
-<th>d</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Krückeberg no 10 in Berenbusch (also Michaelmas 1819)</td>
-<td>clearing rent</td>
-<td></td>
-<td>4</td>
-<td>1</td>
-</tr>
-<tr>
-<td rowspan="8">Vogt no 13 in Nordholz for house and garden plot
-(also Michaelmas 1823)</td>
-<td>clearing rent</td>
-<td></td>
-<td>17</td>
-<td>5</td>
-</tr>
-<tr>
-<td>mill-pig payment</td>
-<td></td>
-<td>6</td>
-<td></td>
-</tr>
-<tr>
-<td>Michaelmas levy</td>
-<td></td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>service fee</td>
-<td>1</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>one hen</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>five harvest days</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>hunt watch duties</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>land service duties</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="2">new settler Brüggemann no 14 in
-Nordholz for house and garden plot
-(Michaelmas 1823)</td>
-<td>clearing rent</td>
-<td></td>
-<td>16</td>
-<td>2</td>
-</tr>
-<tr>
-<td>other dues as the previous</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```{list-table}
+:class: no-zebra-rowspan-table
+:header-rows: 1
+
+* - Person
+  - Description
+  - rl
+  - g
+  - d
+* - Krückeberg no 10 in Berenbusch (also Michaelmas 1819)
+  - clearing rent
+  -
+  - 4
+  - 1
+* - Vogt no 13 in Nordholz for house and garden plot
+    (also Michaelmas 1823)
+  - clearing rent
+  -
+  - 17
+  - 5
+* -
+  - mill-pig payment
+  -
+  - 6
+  -
+* -
+  - Michaelmas levy
+  -
+  - 1
+  -
+* -
+  - service fee
+  - 1
+  -
+  -
+* -
+  - one hen
+  -
+  -
+  -
+* -
+  - five harvest days
+  -
+  -
+  -
+* -
+  - hunt watch duties
+  -
+  -
+  -
+* -
+  - land service duties
+  -
+  -
+  -
+* - new settler Brüggemann no 14 in
+    Nordholz for house and garden plot
+    (Michaelmas 1823)
+  - clearing rent
+  -
+  - 16
+  - 2
+* -
+  - other dues as the previous
+  -
+  -
+  -
+```
 
 ### Specification’s Translation
 
