@@ -15,7 +15,7 @@ the Rentkammer to accept the sale of his holding to Wilhelm Boremann
 because he is immigrating to American, and the ship for America departs on
 [September 15, 1849](jh-krueckeberg-petition-to-sell.md).
 
-```{list-table}
+```{flat-table}
 :widths: 25 75
 
 * - Archive reference

@@ -200,7 +200,7 @@ Exp. 25/9 50.
 
 [table of amounts on left edge of page]
 
-```{list-table}
+```{flat-table}
 :class: compact
 :header-rows: 0
 :widths: auto
@@ -384,7 +384,7 @@ Exp. Sept. 25, 1850.
 
 [table of amounts on left edge of page]
 
-```{list-table}
+```{flat-table}
 :class: compact
 :header-rows: 0
 :widths: auto

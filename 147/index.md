@@ -7,7 +7,7 @@ building plot in the Baumer forest for the new settler holding no. 19 in
 Berenbusch. Only [Document 5](doc5.md) is included here, because it is the
 only document that mentions **Krückeberg**.
 
-```{list-table}
+```{flat-table}
 :widths: 25 75
 
 * - **Date span**

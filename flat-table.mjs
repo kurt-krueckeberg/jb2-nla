@@ -175,7 +175,15 @@ const flatTableDirective = {
       container.identifier = opts.label.trim().toLowerCase().replace(/\s+/g, '-');
     }
     if (opts.class) container.class = opts.class;
-    return [container];
+    if (!colWidths) return [container];
+    // MyST's Typst export writes tables as tablex(columns: n, ..columnStyle, ...),
+    // so set columnStyle to the column widths for this table and reset it after.
+    const typstCols = colWidths.map((w) => `${Math.round(w * 100) / 100}%`).join(', ');
+    return [
+      { type: 'raw', typst: `#let columnStyle = (columns: (${typstCols},))\n` },
+      container,
+      { type: 'raw', typst: '#let columnStyle = (:)\n' },
+    ];
   },
 };
 
