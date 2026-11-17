@@ -24,7 +24,8 @@ They are to inform Jobst Heinrich of these conditions and terms.
 
 ## Transliteration
 
-```{div} doc-text
+```{div}
+:class: doc-text
 Ad N. 287.\
 C. K. [Cammer-Kanzlei] Rescripts ans Amt Bückeburg
 
@@ -68,7 +69,8 @@ reply to a petition or report.
 
 ## Translation
 
-```{div} doc-text
+```{div}
+:class: doc-text
 Re: No. 287.
 
 Official order from the Rentkammer to the Bückeburg Office

@@ -20,7 +20,8 @@ duplication.
 
 ## Transliteration
 
-```{div} doc-text
+```{div}
+:class: doc-text
 ad Num. 15\
 C.K. Rescripts ans Amt Aren[s]burg
 
@@ -55,7 +56,8 @@ header indicating princely authority.
 
 ## Translation
 
-```{div} doc-text
+```{div}
+:class: doc-text
 Re: No. 15\
 [Draft] Chamber rescript\
 to the Office of Arensburg

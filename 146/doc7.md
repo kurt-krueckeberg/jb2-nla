@@ -8,7 +8,8 @@
 
 ## Transliteration
 
-```{div} doc-text
+```{div}
+:class: doc-text
 Conc\
 ad Num: Cam. 368.
 
@@ -52,7 +53,8 @@ MKaas
 
 ## Translation
 
-```{div} doc-text
+```{div}
+:class: doc-text
 Draft\
 Re: Chamber No. 368.
 
