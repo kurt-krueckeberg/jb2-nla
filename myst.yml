@@ -3,7 +3,7 @@ project:
   title: Lower Saxony, Bückeburg Archive, Documents
   authors:
     - name: Kurt Krueckeberg
-  github: kurt-krueckeberg/sphinx-nla
+  github: kurt-krueckeberg/jb2-nla
   bibliography:
     - bueckeburg-docs.bib
   references:
