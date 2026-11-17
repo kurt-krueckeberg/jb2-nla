@@ -7,7 +7,7 @@
 ```
 
 
-```{list-table}
+```{flat-table}
 :class: no-zebra-rowspan-table
 :header-rows: 1
 
@@ -22,7 +22,7 @@
   - Petition of the lodger Driftmeier at No. 5 in Berenbusch, with chamber resolution.
     
     Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam
-  - Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
+  - {rspan}`7` Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
     
     Ausweisung vom Forstgründe für den Einlieger Triftmeier beÿ No. 5. zu Berenbusch betr.
   - Bückeburg
@@ -41,7 +41,6 @@
   - Report of the local office.
     
     Bericht hiesigen Amts.
-  -
   - "
     
     "
@@ -58,7 +57,6 @@
   - Draft royal rescript issued from the office here.
     
     Conc. K. Rescript aus Amt dahier.
-  -
   - "
     
     "
@@ -75,7 +73,6 @@
   - Petition of the colonist Niemann No. 2 in Berenbusch, with chamber resolution.
     
     Vorstellung des Colons Niemann No. 2. zu Berenbusch, cum Res. Cam.
-  -
   - "
     
     "
@@ -92,7 +89,6 @@
   - [Report of the Bückeburg office together with an attached drawing](doc5.md).
     
     Bericht des Amts Bückeburg, samt Anlage einer Zeichnung
-  -
   - "
     
     "
@@ -109,7 +105,6 @@
   - Draft royal rescript to the office here; likewise to the chamber treasury.
     
     Conc. K. Rescript ans Amt dahier. desgl. an die Kammercasse.
-  -
   - "
     
     "
@@ -126,7 +121,6 @@
   - Chamber treasury receipt.
     
     Kammercassenquitung
-  -
   - "
     
     "
@@ -143,7 +137,6 @@
   - Draft purchase contract for the lodger Triftmeier at No. 5 in Bärenbusch.
     
     Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch
-  -
   - "
     
     "

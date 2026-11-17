@@ -8,6 +8,8 @@ project:
     - bueckeburg-docs.bib
   references:
     genealogy: https://gen.krueckeberg.org/
+  plugins:
+    - flat-table.mjs
   exclude:
     - README.adoc
     - todo.md

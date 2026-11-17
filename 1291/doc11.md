@@ -156,7 +156,7 @@ Habicht ᐧ Neufsel
 
 an Kammeral Prestanden
 
-```{list-table}
+```{flat-table}
 :class: no-zebra-rowspan-table
 :header-rows: 1
 
@@ -167,62 +167,54 @@ an Kammeral Prestanden
   - d
 * - Krückeberg no 10 zu Berenbusch (auch Michaeli 1819)
   - Rottzins
-  -
+  - 
   - 4
   - 1
-* - Vogt no 13 zu Nordholz für Haus und Gartenplatz
+* - {rspan}`7` Vogt no 13 zu Nordholz für Haus und Gartenplatz
     (auch Michaeli a 1823)
   - Rottzins
-  -
+  - 
   - 17
   - 5
-* -
-  - Mahlschweingeld
-  -
+* - Mahlschweingeld
+  - 
   - 6
-  -
-* -
-  - Michaelischatz
-  -
+  - 
+* - Michaelischatz
+  - 
   - 1
-  -
-* -
-  - Dienstgeld
+  - 
+* - Dienstgeld
   - 1
-  -
-  -
-* -
-  - Ein Rauchhuhn
-  -
-  -
-  -
-* -
-  - fünf Erntetage
-  -
-  -
-  -
-* -
-  - Jagden Wachten
-  -
-  -
-  -
-* -
-  - Landfolgen.
-  -
-  -
-  -
-* - Neubauer Brüggemann no 14 zu
+  - 
+  - 
+* - Ein Rauchhuhn
+  - 
+  - 
+  - 
+* - fünf Erntetage
+  - 
+  - 
+  - 
+* - Jagden Wachten
+  - 
+  - 
+  - 
+* - Landfolgen.
+  - 
+  - 
+  - 
+* - {rspan}`1` Neubauer Brüggemann no 14 zu
     Nordholz für Haus und Gartenplatz
     (Michaeli 1823)
   - Rottzins
-  -
+  - 
   - 16
   - 2
-* -
-  - übrige Prestanden wie der vorige
-  -
-  -
-  -
+* - übrige Prestanden wie der vorige
+  - 
+  - 
+  - 
 ```
 
 ### Specification’s Transliteration
@@ -370,7 +362,7 @@ Habicht ᐧ Neufsel\
 
 Kammeral dues table in text
 
-```{list-table}
+```{flat-table}
 :class: no-zebra-rowspan-table
 :header-rows: 1
 
@@ -381,62 +373,54 @@ Kammeral dues table in text
   - d
 * - Krückeberg no 10 in Berenbusch (also Michaelmas 1819)
   - clearing rent
-  -
+  - 
   - 4
   - 1
-* - Vogt no 13 in Nordholz for house and garden plot
+* - {rspan}`7` Vogt no 13 in Nordholz for house and garden plot
     (also Michaelmas 1823)
   - clearing rent
-  -
+  - 
   - 17
   - 5
-* -
-  - mill-pig payment
-  -
+* - mill-pig payment
+  - 
   - 6
-  -
-* -
-  - Michaelmas levy
-  -
+  - 
+* - Michaelmas levy
+  - 
   - 1
-  -
-* -
-  - service fee
+  - 
+* - service fee
   - 1
-  -
-  -
-* -
-  - one hen
-  -
-  -
-  -
-* -
-  - five harvest days
-  -
-  -
-  -
-* -
-  - hunt watch duties
-  -
-  -
-  -
-* -
-  - land service duties
-  -
-  -
-  -
-* - new settler Brüggemann no 14 in
+  - 
+  - 
+* - one hen
+  - 
+  - 
+  - 
+* - five harvest days
+  - 
+  - 
+  - 
+* - hunt watch duties
+  - 
+  - 
+  - 
+* - land service duties
+  - 
+  - 
+  - 
+* - {rspan}`1` new settler Brüggemann no 14 in
     Nordholz for house and garden plot
     (Michaelmas 1823)
   - clearing rent
-  -
+  - 
   - 16
   - 2
-* -
-  - other dues as the previous
-  -
-  -
-  -
+* - other dues as the previous
+  - 
+  - 
+  - 
 ```
 
 ### Specification’s Translation

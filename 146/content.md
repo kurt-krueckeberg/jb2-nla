@@ -11,7 +11,7 @@ September of 1850.
 :class: image-override
 ```
 
-```{list-table}
+```{flat-table}
 :class: no-zebra-rowspan-table
 :header-rows: 1
 
@@ -28,7 +28,7 @@ September of 1850.
   - [Petition submitted by the tailor Krückeberg in Evesen](doc1.md)
     
     [Vorstellung von Schneider Krückeberg im Evesen](doc1.md)
-  - Concerning the petition of the tailor Krückeberg in Evesen for the designation (Ausweisung) of a plot for house construction near Bärenbusch.
+  - {rspan}`2` Concerning the petition of the tailor Krückeberg in Evesen for the designation (Ausweisung) of a plot for house construction near Bärenbusch.
     
     Pto Gesuch des Schneider Krückeberg in Evesen um Ausweisung eines Platzes zum Hausbau vor Bärenbusch.
   - Bückeburg
@@ -39,7 +39,6 @@ September of 1850.
   - [Report of the administrative offices of Bückeburg and Arensburg](doc1.md)
     
     [Bericht der Aemter Bückeb: u. Arensburg](doc1.md)
-  -
   - "  "
   - "  "
   - Oct
@@ -48,7 +47,6 @@ September of 1850.
   - [Drafts of Cameral rescripts from the Office of Bückeburg](doc3.md)
     
     [Concept Camr. Rescripts aus Amt Bückeburg](doc3.md)
-  -
   - "  "
   - "  "
   - "  "
@@ -57,7 +55,7 @@ September of 1850.
   - [Report of the administrative offices of Bückeburg and Arensburg](doc4.md)
     
     [Bericht der Aemter Bückeburg u. Arensburg](doc4.md)
-  - Because of his financial circumstances and personal qualities,
+  - {rspan}`2` Because of his financial circumstances and personal qualities,
     and also on account of the satisfaction of the common-pasture
     stakeholders.
     
@@ -71,7 +69,6 @@ September of 1850.
   - [Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg](doc5.md)
     
     [Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg](doc5.md)
-  -
   - "  "
   - "  "
   - "  "
@@ -83,7 +80,6 @@ September of 1850.
     [Bericht gedachter Aemter](doc6.md)
     
     [Ein geometische Zeichnung von Stille](ad6-survey-drawing.md)
-  -
   - "  "
   - "  "
   - Oct
@@ -93,7 +89,7 @@ September of 1850.
     also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](doc7.md)
     
     [Concept Camr Rescripts ans Amt Bückeburg](doc7.md)
-  - Concerning the Cameral approval of the payment monies
+  - {rspan}`5` Concerning the Cameral approval of the payment monies
     and the execution of the purchase deed.
     
     pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
@@ -103,7 +99,6 @@ September of 1850.
   - 15
 * - 7
   - [Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann](doc7.md)
-  -
   - "  "
   - "  "
   - Nov.
@@ -113,7 +108,6 @@ September of 1850.
     No. 18, in Berenbusch](doc8.md)
     
     [Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch](doc8.md)
-  -
   - "  "
   - "  "
   - Decb.
@@ -122,7 +116,6 @@ September of 1850.
   - [Draft of a Cameral decree addressed to this colonist Krückeberg](doc9.md)
     
     [Concept Camr Erlaß an diesen Kolon Krückeberg](doc9.md)
-  -
   - "  "
   - "  "
   - "  "
@@ -133,7 +126,6 @@ September of 1850.
     
     [Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
     gedachten Krückeberg](doc10.md)
-  -
   - "  "
   - "  "
   - "  "
@@ -144,7 +136,6 @@ September of 1850.
     
     [Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
     und Garten](doc10.md)
-  -
   - "  "
   - "  "
   - "  "
