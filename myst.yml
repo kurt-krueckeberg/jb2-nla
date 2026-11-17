@@ -10,6 +10,7 @@ project:
     genealogy: https://gen.krueckeberg.org/
   plugins:
     - flat-table.mjs
+    - link-images.mjs
   exclude:
     - README.adoc
     - todo.md
