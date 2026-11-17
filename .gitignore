@@ -83,3 +83,6 @@ htmlcov/
 
 # MyST build outputs
 _build
+
+# PDF exports
+exports
