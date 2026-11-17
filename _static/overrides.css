@@ -16,12 +16,6 @@
     border-collapse: collapse;
 }
 
-.doc-text table.ruled th,
-.doc-text table.ruled td {
-    border-top: 1px solid var(--pst-color-border) !important;
-    border-left: 1px solid var(--pst-color-border) !important;
-}
-
 .doc-text table.ruled tr:first-child th,
 .doc-text table.ruled tr:first-child td {
     border-top: none !important;
@@ -60,20 +54,6 @@ html[data-theme="dark"] .doc-text {
     background-color: #1f1f1f;
     border-color: #aaa;
 }
-*/
-/*
-.doc-text {
-    font-family: var(--pst-font-family-base);
-    font-weight: 500;
-    line-height: 1.6;
-    color: var(--pst-color-text-base);
-    background-color: var(--pst-color-surface);
-    border: 2px solid var(--pst-color-border);
-    border-radius: 0.4rem;
-    padding: 1rem 1.25rem;
-    margin-bottom: 1.5rem;
-}
-
 */
 /* removes even rows as lighter in color 
 .doc-text table.no-borders tbody tr:nth-child(even),
