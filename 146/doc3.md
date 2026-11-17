@@ -59,7 +59,7 @@ Wine\
 ```
 
 ```{note}
-**V.G.G.** stands for **"By the Grace of God", a formal sovereignty formula
+**V.G.G.** stands for **"By the Grace of God"**, a formal sovereignty formula
 indicating that the *rescript** was issued under princely authority.
 
 A **rescript** was an official decision letter sent by the central authority in
