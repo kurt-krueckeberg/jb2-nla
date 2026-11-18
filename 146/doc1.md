@@ -11,23 +11,23 @@ The Rentkammer’s response is written just below the petition’s salutation.
 ### Hans Heinrich Wilharm was one of Carl Friedrich (born 1807) Baptismal Sponsors
 
 We know that when Carl Friedrich Krückeberg was
-[born in 1807](xref:genealogy#petzen/PET-B-1807a), one of his
-[baptismal sponsors](xref:genealogy#petzen/PET-B-1807a) was Hans Heinrich
+[born in 1807](xref:genealogy/petzen/pet-b-1807a), one of his
+[baptismal sponsors](xref:genealogy/petzen/pet-b-1807a) was Hans Heinrich
 Wilharm of no. 11 Evesen.
 
 We have this timeline for Hans Heinrich Wilharm
 
-- On **August 9, 1760** he was [born](xref:genealogy#petzen/PET-B-1760a) in Berenbusch.
-- On **May 8, 1796** he [married](xref:genealogy#petzen/PET-M-1796a) Anne Marie Philippine Blecke of no. 11 Evesen .
-- On **April 11, 1797** she [died](xref:genealogy#petzen/PET-D-1797a) at No. 11 Evesen after the difficult
-  [birth](xref:genealogy#petzen/PET-B-1797a) of her son Hans Heinrich Wilharm, and
-- On **August 9, 1797**, her surviving husband [remarried](xref:genealogy#petzen/PET-M-1797a), her sister,
+- On **August 9, 1760** he was [born](xref:genealogy/petzen/pet-b-1760a) in Berenbusch.
+- On **May 8, 1796** he [married](xref:genealogy/petzen/pet-m-1796a) Anne Marie Philippine Blecke of no. 11 Evesen .
+- On **April 11, 1797** she [died](xref:genealogy/petzen/pet-d-1797a) at No. 11 Evesen after the difficult
+  [birth](xref:genealogy/petzen/pet-b-1797a) of her son Hans Heinrich Wilharm, and
+- On **August 9, 1797**, her surviving husband [remarried](xref:genealogy/petzen/pet-m-1797a), her sister,
   Sophie Ernestine Blecke, who had been living with them.
 
 The new couple had two children:
 
-- On **July 21, 1798**, the new couple's daughter Anne Marie Christine was [born](xref:genealogy#petzen/PET-B-1798c), and
-- On **November 17, 1810** their son Carl Heinrich was [born](xref:genealogy#petzen/PET-B-1810a)
+- On **July 21, 1798**, the new couple's daughter Anne Marie Christine was [born](xref:genealogy/petzen/pet-b-1798c), and
+- On **November 17, 1810** their son Carl Heinrich was [born](xref:genealogy/petzen/pet-b-1810a)
 
 Their birth records show:
 
