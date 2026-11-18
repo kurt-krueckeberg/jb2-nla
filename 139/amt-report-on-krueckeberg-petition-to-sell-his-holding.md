@@ -28,7 +28,7 @@ N.C. 5399                             pr. m.C. 15/9 49
 
 [Stempel:] 3 Gr.
 
-N.Pr. 1429
+N\.Pr. 1429
 ad
 N.C. 4997.
 
@@ -71,7 +71,7 @@ N.C. 5399                             pr. m.C. 15 September 1849
 
 [Stamp:] 3 Gr.
 
-N.Pr. 1429
+N\.Pr. 1429
 ad
 N.C. 4997.
 
