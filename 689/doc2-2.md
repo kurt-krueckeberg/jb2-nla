@@ -69,11 +69,6 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Translation
 
-## Translation
-
-
-## Translation
-
 ````{div}
 :class: doc-text
 
