@@ -1,6 +1,6 @@
 # Conversion to JB@ Things to do
 
-Check if Netlify has the same "shaking" navigation txt as https://jb2-nla.kurt-krueckeberg.workers.dev?
+Retire netlify and move to Cloudflare pages.
 
 Clicking images to open them in a new tab is done. Everything else on the list is still open:
 
