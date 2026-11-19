@@ -27,7 +27,6 @@ project:
       id: book-pdf
   toc:
     - file: root/index.md
-    - title: General Documents
       children:
         - file: general-docs/overview.md
         - file: 2728/survey-1737.md
@@ -40,6 +39,7 @@ project:
           title: Kolon List with House Numbers (1747)
           children:
             - file: 140/page-17.md
+
     - title: Rentkammer Case Files
       children:
         - file: rentkammer/rentkammer-and-kolonat-system.md
@@ -51,6 +51,7 @@ project:
             - file: rentkammer/workflow.md
             - file: rentkammer/terms.md
               title: Rentkammer Terms
+
         - file: 1237/index.md
           title: Krückeberg No. 10 Berenbusch Land Enlargement Request
           children:
@@ -71,6 +72,7 @@ project:
                 - file: 1237/doc5.md
                   title: Rentkammer Decision
                 - file: 1237/doc6.md
+
         - file: 1291/index.md
           title: >-
             Allotments to Krückeberg no. 10 & Einliegers Vogt & Nordholz (1817 -
@@ -120,6 +122,7 @@ project:
                 - file: 1291/doc21.md
                 - file: 1291/doc22.md
                   title: Brüggemann Purchase Contract
+
         - file: 146/index.md
           title: Site No. 18 Berenbusch, 1808-1850
           children:
@@ -153,6 +156,7 @@ project:
                   title: Certificate Issued
                 - file: 146/doc11.md
                   title: Purchase Deed
+
             - file: 146/other-docs.md
               title: Other Documents (1850)
               children:
@@ -170,6 +174,7 @@ project:
                   title: Report to the Bückeburg Office
                 - file: 146/copia.md
                   title: Purchase Contract Copy
+
         - file: 147/index.md
           title: >-
             Holding No. 19 Berenbusch (1819-1820) in particular concerning the
@@ -180,6 +185,7 @@ project:
               children:
                 - file: 147/doc5.md
                   title: Report of Bückeburg district office
+
         - file: 139/index.md
           children:
             - file: 139/cover.md
@@ -197,6 +203,7 @@ project:
                   title: Report of Bückeburg district office
                 - file: 139/doc2.md
                   title: Report of Bückeburg office
+
             - file: 139/other-docs.md
               title: Sale-Related Documents (1849)
               children:
@@ -218,6 +225,7 @@ project:
                   title: Permission Granted for Sale
                 - file: 139/sales-contract-for-no-10.md
                   title: Purchase Contract
+
         - file: 689/index.md
           title: Loan to Krückeberg no. 10 Berenbusch (1841-1845)
           children:
@@ -256,6 +264,7 @@ project:
                 - file: 689/doc9.md
                 - file: 689/doc10.md
                   title: Promissory Note for 200 Reichsthaler (Follow-ups)
+
         - file: 188/index.md
           title: Sale of the Krückeberg property no. 18 in Berenbusch
           children:
@@ -264,6 +273,7 @@ project:
             - file: 188/doc2.md
             - file: 188/doc3.md
             - file: 188/doc4.md
+
     - title: Maps in Case Files
       children:
         - file: maps/map-list.md

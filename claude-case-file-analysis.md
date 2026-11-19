@@ -1,10 +1,9 @@
 # Rentkammer Case Files: Navigation and Content Review
 
-The project now lives in [jb2-nla](https://github.com/kurt-krueckeberg/jb2-nla) (Jupyter Book 2), and its navigation is the `toc:` section of `myst.yml`. That toc is a near-literal port of the old `_toc.yml`: the same files, order and titles, with `sections:` renamed to `children:`. The seven Rentkammer case-file folders are therefore still consistent only at the top level, and folder 139 is still the best model. This revision reflects the repository as of 18 November 2026; nothing in it was changed for this review.
-
 ## Navigation consistency
 
-In `myst.yml` all seven folders start with `index.md` → `cover.md` → `content.md`; 188 has no `content.md` because it has no Designatio Actorum. Below that level they diverge:
+In `myst.yml` all seven folders start with `index.md` → `cover.md` → `content.md`; 188 has no
+`content.md` because it has no Designatio Actorum. Below that level they diverge:
 
 - **Chapter titles:** each uses a different form. 1237 and 188 carry no dates, 146 puts the
   dates after a comma, 147 runs to 121 characters, and 139 has no `title:` at all. In MyST a
