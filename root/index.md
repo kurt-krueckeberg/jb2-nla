@@ -1,4 +1,4 @@
-# Krückeberg-Related Archical Documents
+# Krückeberg-Related Archival Documents
 
 This site contains Krückeberg-related documents and Schaumburg-Lippe Rentkammer (Finacial Chamber) case files from from 18{sup}`th` and 19{sup}`th` century
 found in the Lower Saxony state archive in Bückeburg, Germany. 
