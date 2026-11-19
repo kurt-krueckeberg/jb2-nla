@@ -3,7 +3,7 @@
 This site contains Krückeberg-related documents and Schaumburg-Lippe Rentkammer (Finacial Chamber) case files from from 18{sup}`th` and 19{sup}`th` century
 found in the Lower Saxony state archive in Bückeburg, Germany. 
 
-```{list-table} Niedersächisches Landesarchiv (Lower Saxony State Archive) Case Files and Documents
+```{list-table} Niedersächisches Landesarchiv (Lower Saxony State Archive) General Documents
 :header-rows: 1
 
 * - Life Span
@@ -34,6 +34,9 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
     **NOTE:** The list is entirely from 1747 (see title page); 1830 refers to a few letters included in the file at the end.
   - [NLA
     BU, L 101a, A Nr. 140](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389)
+```
+
+```{list-table} Niedersächisches Landesarchiv (Lower Saxony State Archive) Rentkammer Case Files
 * - 1798 - 1800
   - [The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)](../1237/index.md)
     
@@ -71,4 +74,3 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
     Verkauf der Krückebergschen Stätte Nr. 18 in Berenbusch an den Schuster Wilhelm Meyer zu Röcke
   - [NLA BU, L 120a, D Nr. 188](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11398990)
 ```
-
