@@ -99,7 +99,7 @@ Neubauer Brüggemann\
 No 14 zu Nordholz
 
 Suppl.\
-Bbrg d 3t Feb: 1818.\
+B[ücke]b[u]rg d 3t Feb: 1818.\
 Opt. Adv. Alwellmann\
 n g n\
 Vert.
