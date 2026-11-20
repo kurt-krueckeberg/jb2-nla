@@ -1,4 +1,10 @@
-# New Settler Holding of Triftmeier, No. 19 in Berenbusch (1819-1820)
+# Triftmeier No. 19 Berenbusch, beside Krückeberg No. 18 (1819–1820)
+
+*Archive's title:* Holding No. 19 in Berenbusch (1819-1820) in particular concerning the new settler holding of Triftmeyer No. 19 at Bärenbusch
+
+*In German:* Die Stätte Nr. 19 zu Berenbusch
+
+*Call number:* [NLA BU K 2 Nr. 147](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979521)
 
 ## Overview
 

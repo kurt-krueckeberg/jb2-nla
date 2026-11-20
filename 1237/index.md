@@ -1,4 +1,12 @@
-# Overview 
+# Krückeberg No. 10 Berenbusch: Garden Enlargement (1798–1800)
+
+*Archive's title:* The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)
+
+*In German:* Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
+
+*Call number:* [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
+
+## Overview
 
 The case file of Jobst Heinrich’s Petition to Enlarge Farmyard and Garden is call number
 [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
