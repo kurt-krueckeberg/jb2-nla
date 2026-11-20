@@ -172,6 +172,7 @@ Recorded.
 
 vGW [left margin]
 
+Decision of the Rentkammer:\
 The Neubauer (settler) Brüggemann has received an assignment near Nordholz
 of 103 Ruthen for the very low price of 44 Reichsthaler, 15½ Mariengroschen,
 for the establishment of a homestead, without previously applying for a
