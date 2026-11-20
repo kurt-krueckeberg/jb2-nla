@@ -1,4 +1,4 @@
-# Stille's Survey Drawing (28 Oct. 1809)
+# Stille's Survey Drawing (5 Mar. 1809)
 
 *Listed in the case file's contents as:* together with a geometrical (survey) drawing by Stille
 

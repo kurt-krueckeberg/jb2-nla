@@ -1,4 +1,4 @@
-# Staackmann's Certificate of Krückeberg's Fees (12 Dec. 1809)
+# Staackmann's Certificate of Krückeberg's Fees (20 Dec. 1809)
 
 *Listed in the case file's contents as:* Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid by the aforementioned Krückeberg
 

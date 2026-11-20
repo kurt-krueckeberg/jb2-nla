@@ -1,4 +1,4 @@
-# Purchase Contract for Brüggemann (14 Dec. 1818)
+# Purchase Contract for Brüggemann (14 Nov. 1818)
 
 *Listed in the case file's contents as:* Prepared purchase contract for Brüggemann No. 14 in Nordholz.
 
