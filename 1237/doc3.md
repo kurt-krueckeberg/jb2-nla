@@ -1,4 +1,6 @@
-# Cammer Directive (11 Mar. 1799)
+# Rentkammer Order to the Bückeburg Officials (11 Mar. 1799)
+
+*Listed in the case file's contents as:* Draft of the Chamber’s official resolution to those aforementioned officials, dated
 
 ## Narrative Overview
 

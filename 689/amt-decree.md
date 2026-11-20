@@ -1,4 +1,4 @@
-# Amt Bückeburg Decree and Execution Order (10/13 July 1841).
+# Bückeburg Office Decree and Execution Order (10 and 13 July 1841)
 
 ## Overview
 

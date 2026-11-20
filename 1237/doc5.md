@@ -1,4 +1,6 @@
-# Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)
+# Rentkammer Orders to the Bückeburg Officials and Treasurer Stackmann (27 Oct. 1800)
+
+*Listed in the case file's contents as:* Draft of Chamber’s official resolutions to the Bückeburg officials, and likewise to the fiscal treasurer Stackmann, dated
 
 ## Narrative Overview
 

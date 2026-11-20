@@ -1,4 +1,6 @@
-# Report of the local office, with drawing and specification.
+# Report of the Local Office, with Drawing (30 May 1818)
+
+*Listed in the case file's contents as:* Report of the local office, together with drawing and specification.
 
 ## Digital Image
 

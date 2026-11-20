@@ -1,4 +1,4 @@
-# Report of Amt Bückeburg on Petition of Colon Krückeberg No. 10 in Berenbusch for Permission to Sell his Farmstead (15 Sept. 1849)
+# Report of the Bückeburg Office on the Petition to Sell (15 Sept. 1849)
 
 ## Narrative Summary
 

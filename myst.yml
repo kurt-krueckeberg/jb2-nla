@@ -61,19 +61,21 @@ project:
             - file: 1237/content.md
               children:
                 - file: 1237/doc1.md
-                  title: Tailor Krückeberg Petition
+                  title: "Krückeberg's Petition (29 May 1798)"
                 - file: 1237/doc2.md
-                  title: Report of Bückeburg Office
+                  title: "Report of the Bückeburg Officials (27 Feb. 1799)"
                 - file: 1237/doc3.md
-                  title: Rentkammer Decision
+                  title: "Rentkammer Order to the Bückeburg Officials (11 Mar. 1799)"
                 - file: 1237/doc4.md
-                  title: Report of Bückeburg Office
+                  title: "Report of the Bückeburg Officials (18 Oct. 1800)"
                 - file: 1237/doc4pt5.md
-                  title: Drawing of Two Parcels
+                  title: "Lieutenant Funck's Survey Drawing (30 Mar. 1799)"
                 - file: 1237/reminder-note.md
+                  title: "Rentkammer Reminder Note (27 Oct. 1800)"
                 - file: 1237/doc5.md
-                  title: Rentkammer Decision
+                  title: "Rentkammer Orders to the Bückeburg Officials and Treasurer Stackmann (27 Oct. 1800)"
                 - file: 1237/doc6.md
+                  title: "Purchase Deed for Krückeberg (1 Dec. 1800)"
 
         - file: 1291/index.md
           title: "Krückeberg No. 10 Berenbusch: Forest Allotment (1817–1818)"
@@ -82,46 +84,49 @@ project:
             - file: 1291/content.md
               children:
                 - file: 1291/doc1.md
-                  title: Krückeberg no. 10 Berenbush Petition
+                  title: "Krückeberg's Petition (1 Jan. 1817)"
                 - file: 1291/doc2.md
-                  title: Forestry Dept. Report
+                  title: "Forestry Department Report (3 Feb. 1817)"
                 - file: 1291/doc3.md
-                  title: Official Decision
+                  title: "Rentkammer Order to the Local Office (13 Feb. 1817)"
                 - file: 1291/doc4.md
-                  title: Petition of lodger Vogt
+                  title: "Petition of the Lodger Vogt (3 Nov. 1817)"
                 - file: 1291/doc5.md
-                  title: Petition of soldier Brüggemann
+                  title: "Petition of the Soldier Brüggemann (15 Dec. 1817)"
                 - file: 1291/doc6.md
-                  title: Report of local office
+                  title: "Report of the Local Office (31 Dec. 1817)"
                 - file: 1291/doc7.md
-                  title: Official Reply to local office
+                  title: "Rentkammer Order to the Local Office (13 Jan. 1818)"
                 - file: 1291/doc8.md
-                  title: Report of local office
+                  title: "Report of the Local Office, with Drawing (16 Feb. 1818)"
                 - file: 1291/doc9.md
-                  title: Official Decision of Princely Finance Office
+                  title: "Rentkammer Order to the Local Office (26 Feb. 1818)"
                 - file: 1291/doc10.md
-                  title: Petition of Vogt from Nordholz
+                  title: "Vogt's Petition, with Drawing (24 May 1818)"
                 - file: 1291/doc11.md
-                  title: Report of local office with drawing
+                  title: "Report of the Local Office, with Drawing (30 May 1818)"
                 - file: 1291/doc12.md
-                  title: Official Decision
+                  title: "Rentkammer Order to the Local Office and the Treasury (17 June 1818)"
                 - file: 1291/doc13.md
+                  title: "Treasury Receipt (14 Sept. 1818)"
                 - file: 1291/doc14.md
-                  title: Petition of Brüggemann
+                  title: "Petition of the New Settler Brüggemann (30 Sept. 1818)"
                 - file: 1291/doc15.md
-                  title: Finance Office Decision on Brüggerman
+                  title: "Rentkammer Decision for Brüggemann (7 Oct. 1818)"
                 - file: 1291/doc16.md
-                  title: Krückeberg Petition
+                  title: "Krückeberg's Petition (7 Sept. 1818)"
                 - file: 1291/doc17.md
-                  title: Finance Office Decision on Krückeberg
+                  title: "Rentkammer Decision for Krückeberg (7 Oct. 1818)"
                 - file: 1291/doc18.md
+                  title: "Treasury Receipt (27 Oct. 1818)"
                 - file: 1291/doc19.md
-                  title: Krückeberg Purchase Contract
+                  title: "Purchase Contract for Krückeberg (16 Nov. 1818)"
                 - file: 1291/doc20.md
-                  title: Finance Office Decision on Vogt
+                  title: "Purchase Contract for Vogt (16 Nov. 1818)"
                 - file: 1291/doc21.md
+                  title: "Treasury Receipt (4 Nov. 1818)"
                 - file: 1291/doc22.md
-                  title: Brüggemann Purchase Contract
+                  title: "Purchase Contract for Brüggemann (14 Dec. 1818)"
 
         - file: 146/index.md
           title: "Krückeberg No. 18 Berenbusch: New Settler Holding (1808–1850)"
@@ -133,29 +138,29 @@ project:
                 - file: 146/doc1-analysis.md
                 - file: 146/doc1-2nd-analysis.md
                 - file: 146/doc1.md
-                  title: Tailor Krückeberg Petition
+                  title: "Krückeberg's Petition (29 Sept. 1808)"
                 - file: 146/doc2.md
-                  title: Bückeberg Office Report
+                  title: "Report of the Bückeburg and Arensburg Offices (21 Oct. 1808)"
                 - file: 146/doc3.md
-                  title: Rentkammer Decision
+                  title: "Rentkammer Order to the Bückeburg Office (31 Oct. 1808)"
                 - file: 146/doc4.md
-                  title: Bückeberg Office Report
+                  title: "Report of the Bückeburg and Arensburg Offices (12 Jan. 1809)"
                 - file: 146/doc5.md
-                  title: Rentkammer Decision
+                  title: "Rentkammer Order to the Bückeburg and Arensburg Offices (23 Jan. 1809)"
                 - file: 146/doc6.md
-                  title: Bückeberg Office Report
+                  title: "Report of the Bückeburg and Arensburg Offices (28 Oct. 1809)"
                 - file: 146/ad6-survey-drawing.md
-                  title: Geometric Drawing
+                  title: "Stille's Survey Drawing (28 Oct. 1809)"
                 - file: 146/doc7.md
-                  title: Rentkammer Decision
+                  title: "Rentkammer Orders to the Bückeburg Office and Rent-Master Staackmann (15 Nov. 1809)"
                 - file: 146/doc8.md
-                  title: Petition of Krückeberg's Wife
+                  title: "Petition of Krückeberg's Wife (7 Dec. 1809)"
                 - file: 146/doc9.md
-                  title: Rentkammer Decree
+                  title: "Rentkammer Decree to Krückeberg (12 Dec. 1809)"
                 - file: 146/doc10.md
-                  title: Certificate Issued
+                  title: "Staackmann's Certificate of Krückeberg's Fees (12 Dec. 1809)"
                 - file: 146/doc11.md
-                  title: Purchase Deed
+                  title: "Purchase Deed for Krückeberg (20 Dec. 1809)"
 
             - file: 146/other-docs.md
               title: Other Documents (1850)
@@ -163,17 +168,17 @@ project:
                 - file: 146/overview-other-docs.md
                 - file: 146/petition-to-sell-cover-sheet.md
                 - file: 146/carl-fried-supplication-to-sell.md
-                  title: Krückeberg Request to Sell (Sept. 1850)
+                  title: "Carl Friedrich Krückeberg's Request to Sell (11 Sept. 1850)"
                 - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
-                  title: Recorded at the Bückeburg District Office
+                  title: "Hearing at the Bückeburg Office (16 Sept. 1850)"
                 - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
-                  title: Report from the Bückeberg Office
+                  title: "Report of the Bückeburg Office to the Rentkammer (26 Sept. 1850)"
                 - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
-                  title: Report from the Bückeberg Office
+                  title: "Report of the Bückeburg Office to the Rentkammer (17 Sept. 1850)"
                 - file: 146/report-to-bueckeburg-amt-9-26-50.md
-                  title: Report to the Bückeburg Office
+                  title: "Report to the Bückeburg Office (26 Sept. 1850)"
                 - file: 146/copia.md
-                  title: Purchase Contract Copy
+                  title: "Copy of the Purchase Contract (1850)"
 
         - file: 147/index.md
           title: "Triftmeier No. 19 Berenbusch, beside Krückeberg No. 18 (1819–1820)"
@@ -182,7 +187,7 @@ project:
             - file: 147/content.md
               children:
                 - file: 147/doc5.md
-                  title: Report of Bückeburg district office
+                  title: "Report of the Bückeburg Office, with Drawing (29 Oct. 1819)"
 
         - file: 139/index.md
           title: "Krückeberg No. 10 Berenbusch: Labour Relief & Sale (1824–1849)"
@@ -191,39 +196,37 @@ project:
             - file: 139/content.md
               children:
                 - file: 139/doc1-1.md
-                  title: Petition of the widow Krückeberg
+                  title: "Petition of the Widow Krückeberg (8 July 1824)"
                 - file: 139/doc1-2.md
-                  title: Report from Bückeburg Office
+                  title: "Report of the Bückeburg Office (26 July 1824)"
                 - file: 139/doc1-3.md
-                  title: Official Reply to Widow Krückeberg
+                  title: "Rentkammer Reply to the Widow Krückeberg (4 Aug. 1824)"
                 - file: 139/doc1-4.md
-                  title: Likewise Sealed by Schmöe, Kahlhuth and Creuzinger
+                  title: "Sealed by Schmöe, Kahlhuth and Creuzinger (4 Aug. 1824)"
                 - file: 139/doc1-5.md
-                  title: Report of Bückeburg district office
+                  title: "Report of the Bückeburg Office (24 Aug. 1824)"
                 - file: 139/doc2.md
-                  title: Report of Bückeburg office
+                  title: "Report of the Bückeburg Office (7 Aug. 1824)"
 
             - file: 139/other-docs.md
               title: Sale-Related Documents (1849)
               children:
                 - file: 139/jh-krueckeberg-petition-to-sell.md
-                  title: Colon Krückeberg Petition to Sell
+                  title: "Johann Heinrich Krückeberg's Petition to Sell (8 Aug. 1849)"
                 - file: >-
                     139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
-                  title: Report of Bückeburg District Office on Krückeberg Petition
+                  title: "Report of the Bückeburg Office on the Petition to Sell (15 Sept. 1849)"
                 - file: >-
                     139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md
-                  title: Rentkammer Instruction Regarding Sale, no. 10 Berenbusch
+                  title: "Rentkammer Approval of the Sale (20 Sept. 1849)"
                 - file: 139/actum-bueckeburg-amt-21-aug-1849.md
-                  title: Hearing Confirming Sale of no. 10 Berenbusch
+                  title: "Hearing Confirming the Sale (21 Aug. 1849)"
                 - file: 139/amt-report-22-aug-1849.md
-                  title: >-
-                    Report from the Bückeburg District Office Concerning the
-                    Sale
+                  title: "Report of the Bückeburg Office on the Sale (22 Aug. 1849)"
                 - file: 139/petition-to-sell-his-holding-23-aug-1849.md
-                  title: Permission Granted for Sale
+                  title: "Permission to Sell Granted (23 Aug. 1849)"
                 - file: 139/sales-contract-for-no-10.md
-                  title: Purchase Contract
+                  title: "Purchase Contract for No. 10 (5 Sept. 1849)"
 
         - file: 689/index.md
           title: "Krückeberg No. 10 Berenbusch: Loan of 200 Thaler (1841–1845)"
@@ -232,46 +235,56 @@ project:
             - file: 689/content.md
               children:
                 - file: 689/amt-decree.md
+                  title: "Bückeburg Office Decree and Execution Order (10 and 13 July 1841)"
                 - file: 689/doc1.md
-                  title: Petition of Colon Krückeberg No. 10 in Berenbusch
+                  title: "Krückeberg's Petition for a Loan (2 Oct. 1841)"
                 - file: 689/doc2-1.md
-                  title: Petition of Colon Krückeberg No. 10 in Berenbusch
+                  title: "Report of the Bückeburg Office (7 Oct. 1841)"
                 - file: 689/doc2-2.md
-                  title: Rentkammer Decision to Bückeburg District Office
+                  title: "Rentkammer Order to the Bückeburg Office (14 Oct. 1841)"
                 - file: 689/doc3-1.md
-                  title: Petition of Colon Krückeberg
+                  title: "Krückeberg's Petition (11 Nov. 1841)"
                 - file: 689/doc3-2.md
+                  title: "Memorandum of Councillor von Reck (15 Nov. 1841)"
                 - file: 689/doc3-3.md
+                  title: "Rentkammer Order to Krückeberg (15 Nov. 1841)"
                 - file: 689/doc4-1.md
+                  title: "Krückeberg's Second Petition (21 Nov. 1841)"
                 - file: 689/doc4-2.md
-                  title: Official Order of the Chamber to Officer Creuzinger
+                  title: "Rentkammer Order to Officer Creuzinger (25 Nov. 1841)"
                 - file: 689/doc5.md
-                  title: Report of Officer Creuzinger on Söhren pasture
+                  title: "Officer Creuzinger's Report on the Söhren Pasture (10 Dec. 1841)"
                 - file: 689/doc6-1.md
-                  title: Advisory Opinion of Councillor Reck
+                  title: "Councillor Reck's Advisory Opinion (16 Dec. 1841)"
                 - file: 689/doc6-2.md
-                  title: Official order of His Serene Highness
+                  title: "Order of His Serene Highness (19 Dec. 1841)"
                 - file: 689/doc6-3.md
-                  title: Filing note by Councillor Reck
+                  title: "Councillor Reck's Filing Note (23 Dec. 1841)"
                 - file: 689/doc7.md
-                  title: Official Order of the Chamber to Bückeburg Office
+                  title: "Rentkammer Order to the Bückeburg Office (24 Dec. 1841)"
                 - file: 689/doc8-1.md
+                  title: "Report of the Bückeburg Office (12 Jan. 1842)"
                 - file: 689/doc8-2.md
-                  title: Official Order of the Chamber to the Office of Bückeburg
+                  title: "Rentkammer Order to the Bückeburg Office (20 Jan. 1842)"
                 - file: 689/doc8-3.md
-                  title: Official Order to Treasurer Berger
+                  title: "Rentkammer Order to Treasurer Berger (20 Jan. 1842)"
                 - file: 689/doc9.md
+                  title: "Report of the Bückeburg Office (8 Feb. 1842)"
                 - file: 689/doc10.md
-                  title: Promissory Note for 200 Reichsthaler (Follow-ups)
+                  title: "Promissory Note for 200 Reichsthaler, with Follow-ups (1842–1845)"
 
         - file: 188/index.md
           title: "Krückeberg No. 18 Berenbusch: Sale (1850)"
           children:
             - file: 188/cover.md
             - file: 188/doc1.md
+              title: "Copy of Krückeberg's Request to Sell (11 Sept. 1850)"
             - file: 188/doc2.md
+              title: "Report on Krückeberg's Petition to Sell (Sept. 1850)"
             - file: 188/doc3.md
+              title: "Sale Proceedings for No. 18 (Sept. 1850)"
             - file: 188/doc4.md
+              title: "Claim for Unpaid Dues from the Sale (24 Sept. 1850)"
 
     - title: Maps in Case Files
       children:

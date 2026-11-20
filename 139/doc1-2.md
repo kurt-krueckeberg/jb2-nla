@@ -1,4 +1,6 @@
-# Report from the Bückeburg Office (26 July 1824)
+# Report of the Bückeburg Office (26 July 1824)
+
+*Listed in the case file's contents as:* Report of the Bückeberg district office.
 
 ## Summary
 

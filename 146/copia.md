@@ -1,4 +1,4 @@
-# Copy of Purchase Contract for Stätte No. 18 in Berenbusch (1850)
+# Copy of the Purchase Contract (1850)
 
 ## Summary
 

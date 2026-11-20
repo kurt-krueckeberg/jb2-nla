@@ -1,4 +1,6 @@
-# Docket Item 2: Report of the Office of Bückeburg (7 Oct 1841)
+# Report of the Bückeburg Office (7 Oct. 1841)
+
+*Listed in the case file's contents as:* Report of the Bückeburg District Office
 
 ## Overview
 

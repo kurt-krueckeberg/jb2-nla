@@ -1,4 +1,6 @@
-# Report from the District Office of Bückeburg (8 Feb 1842)
+# Report of the Bückeburg Office (8 Feb. 1842)
+
+*Listed in the case file's contents as:* Report of the Office of Bückeburg
 
 ```{figure} images/20-r.png
 :class: image-override

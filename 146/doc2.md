@@ -1,4 +1,6 @@
-# Report of the administrative offices of Bückeburg and Arensburg
+# Report of the Bückeburg and Arensburg Offices (21 Oct. 1808)
+
+*Listed in the case file's contents as:* Report of the administrative offices of Bückeburg and Arensburg
 
 ## Overview
 

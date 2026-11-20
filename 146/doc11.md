@@ -1,4 +1,6 @@
-# Draft purchase deed for this Krückeberg, No. 18, in Berenbusch, concerning a building site for house construction and garden
+# Purchase Deed for Krückeberg (20 Dec. 1809)
+
+*Listed in the case file's contents as:* Draft purchase deed for this Krückeberg, No. 18, in Berenbusch, concerning a building site for house construction and garden
 
 ## Overview
 

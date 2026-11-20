@@ -1,4 +1,6 @@
-# Report of the district office of Bückeburg (24 Aug. 1824)
+# Report of the Bückeburg Office (24 Aug. 1824)
+
+*Listed in the case file's contents as:* Drafted official reply originating from the Office of Bückeberg.
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Petition submitted by the tailor Krückeberg in Evesen
+# Krückeberg's Petition (29 Sept. 1808)
+
+*Listed in the case file's contents as:* Petition submitted by the tailor Krückeberg in Evesen
 
 ## Overview
 

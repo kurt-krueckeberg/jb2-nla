@@ -1,4 +1,4 @@
-# 11 Sept. 1850: Carl Friedrich Krückeberg Supplication to Rentkammer Requesting Sale of his Site no. 18 Berenbusch
+# Carl Friedrich Krückeberg's Request to Sell (11 Sept. 1850)
 
 ## Overview
 

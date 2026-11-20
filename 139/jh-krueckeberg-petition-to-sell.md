@@ -1,4 +1,4 @@
-# Petition of Colon Krückeberg for Permission to Sell His Farmstead (8 August 1849)
+# Johann Heinrich Krückeberg's Petition to Sell (8 Aug. 1849)
 
 ## Narrative Summary
 

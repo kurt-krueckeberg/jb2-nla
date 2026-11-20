@@ -1,4 +1,6 @@
-# Supreme official order of His Serene Highness (19 Dec. 1841)
+# Order of His Serene Highness (19 Dec. 1841)
+
+*Listed in the case file's contents as:* Supreme official order of His Serene Highness
 
 ## Images
 

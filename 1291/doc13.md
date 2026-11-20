@@ -1,4 +1,6 @@
-# Chamber Treasury Receipt
+# Treasury Receipt (14 Sept. 1818)
+
+*Listed in the case file's contents as:* Treasury receipt.
 
 ## Digital Image
 

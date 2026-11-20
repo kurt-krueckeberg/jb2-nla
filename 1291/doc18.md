@@ -1,4 +1,6 @@
-# Treasury receipt
+# Treasury Receipt (27 Oct. 1818)
+
+*Listed in the case file's contents as:* Treasury receipt.
 
 ## Chamber Treausry Recept
 

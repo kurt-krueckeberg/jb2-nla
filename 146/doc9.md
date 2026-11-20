@@ -1,4 +1,6 @@
-# Draft of a Cameral decree addressed to this colonist Krückeberg
+# Rentkammer Decree to Krückeberg (12 Dec. 1809)
+
+*Listed in the case file's contents as:* Draft of a Cameral decree addressed to this colonist Krückeberg
 
 ## Summary
 

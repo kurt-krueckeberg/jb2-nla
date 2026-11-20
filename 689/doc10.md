@@ -1,4 +1,6 @@
-# Follow-ups to Promissory Note for 200 Reichsthaler in currency, borrowed from the princely treasury
+# Promissory Note for 200 Reichsthaler, with Follow-ups (1842–1845)
+
+*Listed in the case file's contents as:* Bond for 200 r. courant borrowed from the Princely Chamber Treasury
 
 ## NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 

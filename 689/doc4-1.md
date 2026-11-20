@@ -1,4 +1,6 @@
-# Krückeberg’s Second Petition (21 Nov 1841)
+# Krückeberg's Second Petition (21 Nov. 1841)
+
+*Listed in the case file's contents as:* Petition of Colon Krückeberg
 
 ## Overview
 

@@ -1,4 +1,6 @@
-# Jobst Heinrich Krückeberg Petition (29 May 1798)
+# Krückeberg's Petition (29 May 1798)
+
+*Listed in the case file's contents as:* Petition of Colon Krückeberg No. 10 in Berenbusch, dated.
 
 ## Petition Docket Item
 

@@ -1,4 +1,6 @@
-# Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz
+# Purchase Contract for Vogt (16 Nov. 1818)
+
+*Listed in the case file's contents as:* Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.
 
 ## Concluded purchase contract for new settler Vogt No. 13 at Nordholz
 

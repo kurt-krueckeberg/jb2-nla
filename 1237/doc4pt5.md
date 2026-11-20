@@ -1,4 +1,6 @@
-# Document 4½: Geometric Drawing of Two Parcels (30 Mar. 1799)
+# Lieutenant Funck's Survey Drawing (30 Mar. 1799)
+
+*Listed in the case file's contents as:* Related report from Lieutenant Funck
 
 ## Explanation
 

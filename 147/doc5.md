@@ -1,4 +1,6 @@
-# Report of the Bückeburg office together with an attached drawing
+# Report of the Bückeburg Office, with Drawing (29 Oct. 1819)
+
+*Listed in the case file's contents as:* Report of the Bückeburg office together with an attached drawing.
 
 ## Images
 

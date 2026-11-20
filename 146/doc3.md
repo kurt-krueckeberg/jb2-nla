@@ -1,4 +1,6 @@
-# Drafts of Cameral rescripts from the Office of Bückeburg
+# Rentkammer Order to the Bückeburg Office (31 Oct. 1808)
+
+*Listed in the case file's contents as:* Drafts of Cameral rescripts from the Office of Bückeburg
 
 ## Overview
 

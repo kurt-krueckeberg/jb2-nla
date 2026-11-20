@@ -1,4 +1,6 @@
-# Drafted Official Reply to the Widow Krückeberg (4 Aug. 1824)
+# Rentkammer Reply to the Widow Krückeberg (4 Aug. 1824)
+
+*Listed in the case file's contents as:* Drafted official reply (Rescript) to the widow Krückeberg.
 
 ## Summary
 

@@ -1,4 +1,6 @@
-# Draft of Official Order to the Treasurer Berger (20 Jan 1842)
+# Rentkammer Order to Treasurer Berger (20 Jan. 1842)
+
+*Listed in the case file's contents as:* likewise to Privy Councillor Berger
 
 ## Images
 

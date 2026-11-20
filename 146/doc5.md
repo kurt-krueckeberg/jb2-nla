@@ -1,4 +1,6 @@
-# Draft of a Cameral rescript to the administrative office of Arensburg
+# Rentkammer Order to the Bückeburg and Arensburg Offices (23 Jan. 1809)
+
+*Listed in the case file's contents as:* Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg
 
 ## Overview
 

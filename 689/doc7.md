@@ -1,4 +1,6 @@
-# Draft of Official Order of the Chamber to the Office of Bückeburg (24 Dec. 1841)
+# Rentkammer Order to the Bückeburg Office (24 Dec. 1841)
+
+*Listed in the case file's contents as:* Draft of Official Order of the Chamber to the Office of Bückeburg
 
 ```{figure} images/17-r.png
 :class: image-override

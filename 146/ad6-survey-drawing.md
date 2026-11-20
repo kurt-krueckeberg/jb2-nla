@@ -1,4 +1,6 @@
-# Together with a Geometric Drawing
+# Stille's Survey Drawing (28 Oct. 1809)
+
+*Listed in the case file's contents as:* together with a geometrical (survey) drawing by Stille
 
 ## Survey drawing accompanying Document 6
 

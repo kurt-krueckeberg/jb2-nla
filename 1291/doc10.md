@@ -1,4 +1,6 @@
-# Petition of Vogt from Nordholz, with drawing
+# Vogt's Petition, with Drawing (24 May 1818)
+
+*Listed in the case file's contents as:* Petition of Vogt from Nordholz, together with drawing.
 
 ## Petition Docket Page
 

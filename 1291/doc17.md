@@ -1,4 +1,6 @@
-# Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
+# Rentkammer Decision for Krückeberg (7 Oct. 1818)
+
+*Listed in the case file's contents as:* Prepared official decision of the Princely Finance Office addressed to the same.
 
 ## Chancery Resolution
 

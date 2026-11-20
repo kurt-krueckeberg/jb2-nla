@@ -1,4 +1,6 @@
-# Likewise Offically Marked by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
+# Sealed by Schmöe, Kahlhuth and Creuzinger (4 Aug. 1824)
+
+*Listed in the case file's contents as:* Likewise sealed/officially marked by Schmöe, Kahlhuth and Creuzinger of Baum.
 
 ## Summary
 

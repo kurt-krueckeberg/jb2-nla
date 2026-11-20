@@ -1,4 +1,6 @@
-# Prepared official decision of the Princely Finance Office addressed to the aforementioned (Brüggemann).
+# Rentkammer Decision for Brüggemann (7 Oct. 1818)
+
+*Listed in the case file's contents as:* Prepared official decision of the Princely Finance Office addressed to the aforementioned.
 
 ## Chancery resolution
 

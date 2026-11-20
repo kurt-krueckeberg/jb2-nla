@@ -1,4 +1,6 @@
-# Draft of Official Order of the Rentcammer to the Office of Bückeburg (20 Jan 1842)
+# Rentkammer Order to the Bückeburg Office (20 Jan. 1842)
+
+*Listed in the case file's contents as:* Draft of Official Order of the Chamber to the same
 
 ## Images
 
