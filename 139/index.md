@@ -1,4 +1,10 @@
-# Site No. 10 in Berenbusch (1824-1849)
+# Krückeberg No. 10 Berenbusch: Labour Relief & Sale (1824–1849)
+
+*Archive's title:* Holding No. 10 in Berenbusch (1824-1849)
+
+*In German:* Die Stätte Nr. 10 zu Berenbusch
+
+*Call number:* [NLA BU, K 2, B Nr. 139](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979527)
 
 ## Overview
 
@@ -18,8 +24,6 @@ because he is immigrating to American, and the ship for America departs on
 ```{flat-table}
 :widths: 25 75
 
-* - Archive reference
-  - [NLA BU, L 101a, A Nr. 139](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697)
 * - Date span
   - 1824–1849
 * - Holding

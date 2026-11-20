@@ -1,4 +1,10 @@
-# Sale of the Krückeberg property no. 18 in Berenbusch to the shoemaker
+# Krückeberg No. 18 Berenbusch: Sale (1850)
+
+*Archive's title:* Sale of the Krückeberg property no. 18 in Berenbusch to the shoemaker
+
+*In German:* Verkauf der Krückebergschen Stätte Nr. 18 in Berenbusch an den Schuster Wilhelm Meyer zu Röcke
+
+*Call number:* [NLA BU, L 120a, D Nr. 188](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11398990)
 
 Only the case file cover and the Abschrift (copy) of
 [N.C. 4386](../146/carl-fried-supplication-to-sell.md) from  case file [Holding No. 18

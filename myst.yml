@@ -55,7 +55,7 @@ project:
               title: Rentkammer Terms
 
         - file: 1237/index.md
-          title: Krückeberg No. 10 Berenbusch Land Enlargement Request
+          title: "Krückeberg No. 10 Berenbusch: Garden Enlargement (1798–1800)"
           children:
             - file: 1237/cover.md
             - file: 1237/content.md
@@ -76,9 +76,7 @@ project:
                 - file: 1237/doc6.md
 
         - file: 1291/index.md
-          title: >-
-            Allotments to Krückeberg no. 10 & Einliegers Vogt & Brüggemann (1817 -
-            1818)
+          title: "Krückeberg No. 10 Berenbusch: Forest Allotment (1817–1818)"
           children:
             - file: 1291/cover.md
             - file: 1291/content.md
@@ -126,7 +124,7 @@ project:
                   title: Brüggemann Purchase Contract
 
         - file: 146/index.md
-          title: Site No. 18 Berenbusch, 1808-1850
+          title: "Krückeberg No. 18 Berenbusch: New Settler Holding (1808–1850)"
           children:
             - file: 146/cover.md
             - file: 146/content.md
@@ -178,9 +176,7 @@ project:
                   title: Purchase Contract Copy
 
         - file: 147/index.md
-          title: >-
-            Holding No. 19 Berenbusch (1819-1820) in particular concerning the
-            new settler holding of Triftmeyer No. 19 at Bärenbusch
+          title: "Triftmeier No. 19 Berenbusch, beside Krückeberg No. 18 (1819–1820)"
           children:
             - file: 147/cover.md
             - file: 147/content.md
@@ -189,6 +185,7 @@ project:
                   title: Report of Bückeburg district office
 
         - file: 139/index.md
+          title: "Krückeberg No. 10 Berenbusch: Labour Relief & Sale (1824–1849)"
           children:
             - file: 139/cover.md
             - file: 139/content.md
@@ -229,7 +226,7 @@ project:
                   title: Purchase Contract
 
         - file: 689/index.md
-          title: Loan to Krückeberg no. 10 Berenbusch (1841-1845)
+          title: "Krückeberg No. 10 Berenbusch: Loan of 200 Thaler (1841–1845)"
           children:
             - file: 689/cover.md
             - file: 689/content.md
@@ -268,7 +265,7 @@ project:
                   title: Promissory Note for 200 Reichsthaler (Follow-ups)
 
         - file: 188/index.md
-          title: Sale of the Krückeberg property no. 18 in Berenbusch
+          title: "Krückeberg No. 18 Berenbusch: Sale (1850)"
           children:
             - file: 188/cover.md
             - file: 188/doc1.md
