@@ -8,28 +8,34 @@
 :class: image-override
 ```
 
-### Transliteration and Translation of Outer Address Page
+### Transliteration of Outer Address Page
 
-```{list-table}
+```{div}
+:class: doc-text
+An
+Se. Durchlaucht, meinem gnädigsten Fürsten und Herrn
 
-* - An
-    Se. Durchlaucht, meinem gnädigsten Fürsten und Herrn
-    
-    des Neubauers Brüggemann No 14 zu Nordholz
-    
-    Unterthänigste Vorstellung
-    und Bitte:
-    
-    Ich um einen ausgewiesenen Platz gnädigst zu schenken
-  - To
-    His Serene Highness, my most gracious Prince and Lord,
-    
-    [from] the Neubauer (settler) Brüggemann, No. 14 in Nordholz
-    
-    Most humble statement and petition:
-    
-    I humbly request that the allotted plot
-    be most graciously granted to me.
+des Neubauers Brüggemann No 14 zu Nordholz
+
+Unterthänigste Vorstellung
+und Bitte:
+```
+
+
+### Translation of Outer Address Page   
+
+```{div}
+:class: doc-text
+Ich um einen ausgewiesenen Platz gnädigst zu schenken
+To
+His Serene Highness, my most gracious Prince and Lord,
+
+[from] the Neubauer (settler) Brüggemann, No. 14 in Nordholz
+
+Most humble statement and petition:
+
+I humbly request that the allotted plot
+be most graciously granted to me.
 ```
 
 ## Document 14
