@@ -1,4 +1,4 @@
-# 26 Sept. 1850: Report to the Bückeburg Office, Re: Sale of the Krückeberg site No. 18 in Berenbusch
+# Report to the Bückeburg Office (26 Sept. 1850)
 
 ## Image
 

@@ -1,4 +1,6 @@
-# Report of Officer Creuzinger with attached site plan of the Söhren pasture (10 Dec. 1841)
+# Officer Creuzinger's Report on the Söhren Pasture (10 Dec. 1841)
+
+*Listed in the case file's contents as:* Report of Officer Creuzinger with attached site plan of the Söhren pasture
 
 ## Images
 

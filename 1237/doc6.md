@@ -1,4 +1,6 @@
-# Deed Issued (1 Dec. 1800)
+# Purchase Deed for Krückeberg (1 Dec. 1800)
+
+*Listed in the case file's contents as:* Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the enlargement of his garden
 
 ## Narrative Overview
 

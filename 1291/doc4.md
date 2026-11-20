@@ -1,4 +1,6 @@
-# Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office
+# Petition of the Lodger Vogt (3 Nov. 1817)
+
+*Listed in the case file's contents as:* Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.
 
 ## Petition Docket Page
 

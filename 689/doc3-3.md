@@ -1,4 +1,6 @@
-# Draft of Official Order of the Chamber to Colon Krückeberg (15 Nov. 1841)
+# Rentkammer Order to Krückeberg (15 Nov. 1841)
+
+*Listed in the case file's contents as:* Draft of Official Order of the Chamber to Colon Krückeberg
 
 ## Summary
 

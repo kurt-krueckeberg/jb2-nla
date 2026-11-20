@@ -1,4 +1,6 @@
-# Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
+# Purchase Contract for Krückeberg (16 Nov. 1818)
+
+*Listed in the case file's contents as:* Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
 
 ## Purchase Contract
 

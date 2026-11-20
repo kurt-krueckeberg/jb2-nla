@@ -1,4 +1,6 @@
-# Report from the Office Bückeburg (12 Jan 1842)
+# Report of the Bückeburg Office (12 Jan. 1842)
+
+*Listed in the case file's contents as:* Report of the Office of Bückeburg
 
 ## Images
 

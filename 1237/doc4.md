@@ -1,4 +1,6 @@
-# Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)
+# Report of the Bückeburg Officials (18 Oct. 1800)
+
+*Listed in the case file's contents as:* Report from the same officials.
 
 ## Narrative Overview
 

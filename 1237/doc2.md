@@ -1,4 +1,6 @@
-# Land Assignment Report and Its Offical Response (27 Feb. 1799)
+# Report of the Bückeburg Officials (27 Feb. 1799)
+
+*Listed in the case file's contents as:* Report on the matter from the Bückeburg officials, dated.
 
 ## Document 2: Narrative Overview
 

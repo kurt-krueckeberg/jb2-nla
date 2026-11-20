@@ -1,4 +1,6 @@
-# Filing note by Councillor Reck and the supreme official order of His Serene Highness (23 Dec.  1841)
+# Councillor Reck's Filing Note (23 Dec. 1841)
+
+*Listed in the case file's contents as:* Filing note by Councillor Reck and the supreme official order of His Serene Highness
 
 ## Images
 

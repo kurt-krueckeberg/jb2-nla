@@ -1,4 +1,6 @@
-# Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.
+# Rentkammer Order to the Local Office and the Treasury (17 June 1818)
+
+*Listed in the case file's contents as:* Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.
 
 ## Digital Images
 

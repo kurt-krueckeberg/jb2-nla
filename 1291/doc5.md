@@ -1,4 +1,6 @@
-# Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office
+# Petition of the Soldier Brüggemann (15 Dec. 1817)
+
+*Listed in the case file's contents as:* Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.
 
 ## Petition Docket Page
 

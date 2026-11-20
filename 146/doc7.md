@@ -1,4 +1,6 @@
-# Draft of a Cameral rescript to the Office of Bückeburg, also draft of a Cameral instruction to the Chamber Rent-Master Staackmann
+# Rentkammer Orders to the Bückeburg Office and Rent-Master Staackmann (15 Nov. 1809)
+
+*Listed in the case file's contents as:* Drafts of Cameral rescripts from the Office of Bückeburg, also draft of a Cameral instruction to the Chamber Rent-Master Staackmann
 
 ## Image
 

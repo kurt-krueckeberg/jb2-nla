@@ -1,4 +1,6 @@
-# Petition of Colon Krückeberg No. 10 in Berenbusch (2 Oct. 1841)
+# Krückeberg's Petition for a Loan (2 Oct. 1841)
+
+*Listed in the case file's contents as:* Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2]
 
 ## Overview
 

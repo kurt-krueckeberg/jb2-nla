@@ -1,4 +1,6 @@
-# Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
+# Forestry Department Report (3 Feb. 1817)
+
+*Listed in the case file's contents as:* Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
 
 ## Digital Image
 

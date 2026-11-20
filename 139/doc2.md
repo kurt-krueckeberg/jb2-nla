@@ -1,4 +1,6 @@
-# Report from the Bückeburg Office (7 Aug. 1842)
+# Report of the Bückeburg Office (7 Aug. 1824)
+
+*Listed in the case file's contents as:* Report of the district office of Bückeburg.
 
 ## Report from the Bückeburg Office
 

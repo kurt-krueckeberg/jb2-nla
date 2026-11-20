@@ -1,4 +1,6 @@
-# Memorandum of Senior Government Councillor von Reck (15 November 1841)
+# Memorandum of Councillor von Reck (15 Nov. 1841)
+
+*Listed in the case file's contents as:* Memorandum of Senior Government Councillor von Reck
 
 ## Summary
 

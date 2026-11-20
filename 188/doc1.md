@@ -1,4 +1,4 @@
-# Copy of N.C. 4386
+# Copy of Krückeberg's Request to Sell (11 Sept. 1850)
 
 Below is an copy (Abschrift) of the [original request of Carl Friedrich Krückeberg before the Rentkammer](../146/carl-fried-supplication-to-sell.md)
 seeking approval of the sale of his holding no. 18 Berenbusch.

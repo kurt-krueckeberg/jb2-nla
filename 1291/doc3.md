@@ -1,4 +1,6 @@
-# Prepared official decision of the Princely Finance Office to the local office
+# Rentkammer Order to the Local Office (13 Feb. 1817)
+
+*Listed in the case file's contents as:* Prepared official decision of the Princely Finance Office to the local office.
 
 ## Digital Image
 

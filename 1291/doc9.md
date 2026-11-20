@@ -1,4 +1,6 @@
-# Prepared official decision of the Princely Finance Office, based on a submission from the local office
+# Rentkammer Order to the Local Office (26 Feb. 1818)
+
+*Listed in the case file's contents as:* Prepared official decision of the Princely Finance Office, based on a submission from the local office.
 
 ## Digital Images
 

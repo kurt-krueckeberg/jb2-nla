@@ -1,4 +1,4 @@
-# Permission Granted for Colon Krückeberg to Sell his Site (23 Aug. 1849)
+# Permission to Sell Granted (23 Aug. 1849)
 
 ## Document Summary
 

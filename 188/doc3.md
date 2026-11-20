@@ -1,4 +1,4 @@
-# Sale proceedings for Site No. 18 in Berenbusch, 1850
+# Sale Proceedings for No. 18 (Sept. 1850)
 
 This cluster of three documents records the sale of site No. 18
 in Berenbusch by Carl Friedrich Krückeberg to the shoemaker Wilhelm Meyer.

@@ -1,4 +1,6 @@
-# Petition of Colon Krückeberg (on condition of pledging all of his lands [as collateral])
+# Krückeberg's Petition (11 Nov. 1841)
+
+*Listed in the case file's contents as:* Petition of Colon Krückeberg
 
 ## Summary
 

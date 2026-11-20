@@ -1,4 +1,6 @@
-# Prepared official decision of the Princely Finance Office to the local office
+# Report of the Local Office (31 Dec. 1817)
+
+*Listed in the case file's contents as:* Report of the local office.
 
 ## Digital Images
 

@@ -1,4 +1,6 @@
-# Report of the local office, with drawing
+# Report of the Local Office, with Drawing (16 Feb. 1818)
+
+*Listed in the case file's contents as:* Report of the local office, together with drawing.
 
 ## Digital Images
 

@@ -1,4 +1,6 @@
-# Treasury receipt
+# Treasury Receipt (4 Nov. 1818)
+
+*Listed in the case file's contents as:* Treasury receipt.
 
 ## Receipt
 

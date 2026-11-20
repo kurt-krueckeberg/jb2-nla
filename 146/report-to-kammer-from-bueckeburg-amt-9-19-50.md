@@ -1,4 +1,4 @@
-# 17 Sept. 1850: To the Princely Treasury Report from the Bückeburg Office, Re: Sale of the Krückeberg property No. 18 in Berenbusch
+# Report of the Bückeburg Office to the Rentkammer (17 Sept. 1850)
 
 ## Image
 

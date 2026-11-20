@@ -1,4 +1,6 @@
-# Report of the aforementioned administrative offices
+# Report of the Bückeburg and Arensburg Offices (28 Oct. 1809)
+
+*Listed in the case file's contents as:* Report of the aforementioned administrative offices
 
 ## Summary
 

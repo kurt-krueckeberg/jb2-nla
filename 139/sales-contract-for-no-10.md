@@ -1,4 +1,4 @@
-# Purchase Contract for Stätte No. 10 in Berenbusch (5 Sep. 1849)
+# Purchase Contract for No. 10 (5 Sept. 1849)
 
 ## Explanation of the Sales Contract
 

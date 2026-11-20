@@ -1,4 +1,4 @@
-# 16 Sept. 1850: Actum Bückeburg am Amte
+# Hearing at the Bückeburg Office (16 Sept. 1850)
 
 ## Image
 

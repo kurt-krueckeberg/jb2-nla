@@ -1,4 +1,6 @@
-# Petition of the Shoemaker Krückeberg No. 10. zu Berenbusch
+# Krückeberg's Petition (1 Jan. 1817)
+
+*Listed in the case file's contents as:* Petition of the shoemaker Krückeberg No. 10 in Berenbusch.
 
 ## Digital Image
 

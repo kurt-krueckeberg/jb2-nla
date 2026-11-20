@@ -1,4 +1,6 @@
-# Petition of the wife of the new settler Krückeberg,
+# Petition of Krückeberg's Wife (7 Dec. 1809)
+
+*Listed in the case file's contents as:* Petition of the wife of the new settler Krückeberg, No. 18, in Berenbusch
 
 ## Summary
 

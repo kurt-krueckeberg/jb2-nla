@@ -1,4 +1,6 @@
-# Draft of Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
+# Rentkammer Order to the Bückeburg Office (14 Oct. 1841)
+
+*Listed in the case file's contents as:* Draft of Official Order of the Chamber to the same [office]
 
 ## Summary
 

@@ -1,4 +1,4 @@
-# Internal Chamber Reminder Note (27 Oct 1800)
+# Rentkammer Reminder Note (27 Oct. 1800)
 
 ## Summary
 

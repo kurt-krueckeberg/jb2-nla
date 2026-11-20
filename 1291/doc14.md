@@ -1,4 +1,6 @@
-# Petition of the new settler Brüggemann No. 14 at Nordholz
+# Petition of the New Settler Brüggemann (3 Feb. 1818)
+
+*Listed in the case file's contents as:* Petition of the new settler Brüggemann No. 14 in Nordholz.
 
 **TODO:** The date at the end doesn’t seem, to match the Designatio Actorum?!
 

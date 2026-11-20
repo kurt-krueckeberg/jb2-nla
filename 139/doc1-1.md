@@ -1,4 +1,6 @@
-# Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)
+# Petition of the Widow Krückeberg (8 July 1824)
+
+*Listed in the case file's contents as:* Petition of the widow Krückeberg, Holding No. 10 in Berenbusch.
 
 ## Overview
 
