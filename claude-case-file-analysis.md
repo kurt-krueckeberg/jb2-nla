@@ -5,7 +5,7 @@
 In `myst.yml` all seven folders start with `index.md` → `cover.md` → `content.md`; 188 has no
 `content.md` because it has no Designatio Actorum. Below that level they diverge:
 
-- **Chapter titles:** each uses a different form. 1237 and 188 carry no dates, 146 puts the
+- *Chapter titles:** each uses a different form. 1237 and 188 carry no dates, 146 puts the
   dates after a comma, 147 runs to 121 characters, and 139 has no `title:` at all. In MyST a
   toc `title:` is a navigation-only short title; MyST's own `short_title` field is capped at 40
   characters, and only the 146 chapter title fits within it.
