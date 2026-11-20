@@ -52,17 +52,17 @@
 
 ```{div}
 :class: doc-text
-[3 Gr. Stempel]                                  14.)
+[3 Gr. Stempel]                                  14.)\
 Eingekomm: Cam d. 16 Feb 18
 
 An die Cammer
 [routing/handling notation]
 
 P. N.
-Die gutachtliche Meinung der Kammer ist auf der 3ten Seite bemerkt.
+Die gutachtliche Meinung der Kammer ist auf der 3ten Seite bemerkt.\
 N. MKaas.
 
-Durchlauchtigster Fürst
+Durchlauchtigster Fürst\
 Gnädigst regierender Fürst und Herr!
 
 Es ist mir von Ew. Durchlauchten Rentkammer ein Platz zum Hausbau nebst
@@ -82,25 +82,25 @@ rechnen, etwas bedeutendes damit zu verdienen.
 
 An Ew. Durchlauchten ergehet demnach meine unterthänigste Bitte:
 
-Gnädigst mir den ausgewiesenen
+Gnädigst mir den ausgewiesenen\
 Platz zu schenken.
 
-In tiefster Ehrfurcht ersterbe ich
-Ew. Durchlauchten
+In tiefster Ehrfurcht ersterbe ich\
+Ew. Durchlauchten\
 unterthänigster
 
-Neubauer Brüggemann
+Neubauer Brüggemann\
 No 14 zu Nordholz
 
-Suppl.
-Bbrg d 3t Feb: 1818.
-Opt. Adv. Alwellmann
-n g n
+Suppl.\
+Bbrg d 3t Feb: 1818.\
+Opt. Adv. Alwellmann\
+n g n\
 Vert.
 
 vGW [left margin]
 
-Res: Cam:
+Res: Cam:\
 Der Neubauer Brüggemann hat bei Nordholz 103 Ruthen für den sehr billigen
 Preis von 44. Rthlr. 15 ½ mg zu einer Colonie ausgewiesen erhalten, ohne
 vorher um völlige Schenkung des Grund u. Bodens nachzusuchen. Von einer
@@ -119,17 +119,17 @@ MKaas
 
 ```{div}
 :class: doc-text
-[3 Groschen stamp]                                  14.)
+[3 Groschen stamp]                                  14.)\
 Received by the Chamber on 16 Feb 1818
 
-To the Chamber
+To the Chamber\
 [routing/handling notation]
 
-P. N.
-The advisory opinion of the Chamber is noted on page 3.
+P. N.\
+The advisory opinion of the Chamber is noted on page 3.\
 N. M. Kaas.
 
-Most Serene Prince,
+Most Serene Prince,\
 Most gracious ruling Prince and Lord!
 
 Your Serene Highness’s Chamber Treasury has most graciously assigned to me
@@ -149,20 +149,19 @@ and I cannot expect to earn anything significant from it.
 
 To Your Serene Highness I therefore submit my most humble petition:
 
-Most graciously to grant me the assigned
-plot of land.
+Most graciously to grant me the assigned plot of land.
 
-In deepest reverence I remain,
-Your Serene Highness’s
+In deepest reverence I remain,\
+Your Serene Highness’s\
 most humble servant,
 
-Neubauer Brüggemann
+Neubauer Brüggemann\
 No. 14 in Nordholz
 
-Petition.
-Bückeburg, 3 Feb 1818.
-Advisory opinion of Advocate Alwellmann
-n g n
+Petition.\
+Bückeburg, 3 Feb 1818.\
+Advisory opinion of Advocate Alwellmann\
+n g n\
 Recorded.
 
 vGW [left margin]
