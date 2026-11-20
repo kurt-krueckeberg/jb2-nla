@@ -116,7 +116,7 @@ des Gesuchs nicht gestimmt werden, da hierdurch die Nachsuchungen um
 Colonie-Plätze sehr vermehret würden in der Erwartung künftiger Erlassung
 der Bezahlung des Grund u. Bodens und der Holzgelder.
 
-Bück d 21. Sept. 1818.
+Bück[eburg] d 21. Sept. 1818.
 
 MKaas
 ```
