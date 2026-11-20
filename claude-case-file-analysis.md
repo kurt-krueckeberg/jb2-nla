@@ -1,5 +1,7 @@
 # Rentkammer Case Files: Navigation and Content Review
 
+See what to do next: https://claude.ai/share/daeb7bdb-3352-4bee-84de-89682234c02f
+
 20 Nov 2026 · Kurt Krueckeberg
 
 The project now lives in [jb2-nla](https://github.com/kurt-krueckeberg/jb2-nla)
