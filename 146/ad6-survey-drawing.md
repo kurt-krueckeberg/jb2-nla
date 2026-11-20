@@ -12,7 +12,7 @@ Schaumburg-Lippe, a Hofstelle usually did **not** imply full ownership of the
 land, but rather the right to occupy and use it as part of a tenancy.
 
 The triangular figure represents the surveyed plot as measured in the Baumer
-Forest on 2 March 1809.  The side lengths are recorded directly on the drawing,
+Forest and dated 5 March 1809.  The side lengths are recorded directly on the drawing,
 and the total area is stated as 102 square rods and 51 square feet.
 
 Such sketches served as supporting documentation for Rentkammer decisions and
