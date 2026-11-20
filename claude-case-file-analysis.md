@@ -1,24 +1,19 @@
 # Rentkammer Case Files: Navigation and Content Review
 
+Nov 20, 2026 · @Kurt
+
+The project now lives in [jb2-nla](https://github.com/kurt-krueckeberg/jb2-nla) (Jupyter Book 2), and its navigation is the `toc:` section of `myst.yml`. That toc is a near-literal port of the old `_toc.yml`, so the seven Rentkammer case-file folders are still consistent only at the top level, and folder 139 is still the best model. The end goal is a printed book made from the Typst PDF, written for readers of the Krückeberg family history, so every recommendation here must work on paper as well as on the website, and the wording of the Bückeburg archivists and the Rentkammer clerks is quoted, never rewritten. Nothing in the repository was changed for this review.
+
 ## Navigation consistency
 
-In `myst.yml` all seven folders start with `index.md` → `cover.md` → `content.md`; 188 has no
-`content.md` because it has no Designatio Actorum. Below that level they diverge:
+In `myst.yml` all seven folders start with `index.md` → `cover.md` → `content.md`; 188 has no `content.md` because it has no Designatio Actorum. Below that level they diverge:
 
-- *Chapter titles:** each uses a different form. 1237 and 188 carry no dates, 146 puts the
-  dates after a comma, 147 runs to 121 characters, and 139 has no `title:` at all. In MyST a
-  toc `title:` is a navigation-only short title; MyST's own `short_title` field is capped at 40
-  characters, and only the 146 chapter title fits within it.
-- **Document titles:** none carry dates. Many entries have no `title:` (1237/doc6, 1291/doc13,
-  18 and 21, eight in 689, all of 188), so the sidebar falls back to the page's long H1.
-- **Nesting:** fixed in the port. In 147, `doc5.md` now sits under `content.md`, as in every
-  other folder.
-- **Order:** 146 still puts two analysis pages ahead of Document 1, and 689 still puts
-  `amt-decree.md` ahead of Document 1.
-- **Later documents:** 139 and 146 group them under `other-docs.md`; no other folder has such a
-  group.
-- **Orphans:** 18 pages are not listed in `myst.yml`: 13 in 689, 4 in 188 and 1 in 1237
-  (`doc4-extra.md`; `actors.md` has been deleted).
+- **Case-file titles in `myst.yml`:** each uses a different form. 1237 and 188 carry no dates, 146 puts the dates after a comma, 147 runs to 121 characters, and 139 has no `title:` at all. The 1291 title names "Einliegers Vogt & Nordholz" where the cover has Vogt and Brüggemann; Nordholz is their village. These titles appear only in the website sidebar; the PDF takes its chapter headings from the page headings.
+- **Document titles in `myst.yml`:** none carry dates. Many entries have no `title:` (1237/doc6, 1291/doc13, 18 and 21, eight in 689, all of 188), so the sidebar falls back to the page's long heading.
+- **Nesting:** fixed in the port. In 147, `doc5.md` now sits under `content.md`, as in every other folder.
+- **Order:** 146 still puts two analysis pages ahead of Document 1, and 689 still puts `amt-decree.md` ahead of Document 1.
+- **Later documents:** 139 and 146 group them under `other-docs.md`; no other folder has such a group.
+- **Pages not in the toc:** 18 pages are not listed in `myst.yml`: 13 in 689, 4 in 188 and 1 in 1237 (`doc4-extra.md`; `actors.md` has been deleted).
 
 ## Best folder: 139
 
@@ -38,34 +33,15 @@ The `index.md` of 139 is still the landing page that best tells a layman, in ord
 
 Each folder should reach the 139 pattern: a landing page with a plain overview, a facts table, a timeline and a closing Genealogical Significance section, followed in `myst.yml` by cover, Designatio Actorum, documents, later documents and supplementary notes. Everything below uses features built into MyST; none needs a plugin or custom CSS.
 
-1. **139:** extend the timeline through September 1849, add a `title:` to its `myst.yml` entry,
-   rename "Other Documents" to "Sale Documents (1849)", and add a Genealogical Significance
-   section.
-2. **147:** shorten its `myst.yml` title to match the H1, "New Settler Holding of Triftmeier,
-   No. 19 in Berenbusch (1819-1820)", or a shorter form of it. The landing page is otherwise
-   done.
-3. **1237:** move the regency section to "Rentkammer Explained", as the page's own TODO says.
-   Give the page a real H1 instead of "Overview". Rebuild the timeline as one row per event
-   starting 29 May 1798, with a link to each document. Fold the ten narrative sections into the
-   document pages, and fold `doc4-extra.md` into `doc4.md`.
-4. **689:** replace the opening with two paragraphs on the debt to Hempel & Söhne and the 200
-   Reichsthaler loan. Keep the timeline. Move `amt-decree.md` and the service slip into a
-   "Background documents" group in `myst.yml`, and put the numbering and analysis pages in a final
-   "Supplementary notes" group or delete them.
-5. **146:** move the two-Jobst-Heinrichs argument into the Genealogical Significance section or
-   onto its own page at the end, together with the two Document 1 analyses. Write a 139-style
-   overview covering 1808–1810 and the 1850 sale.
-6. **1291:** write the overview from scratch. It has three petitioners (Krückeberg, Vogt,
-   Brüggemann), so the timeline needs a "Party" column.
-7. **188:** keep it short, add the facts table and `myst.yml` titles, and either finish or drop
-   `doc5.md`, `3-right.md` and `last-page.md`.
-8. **All folders, navigation:** give every `myst.yml` entry a `title:` of at most 40
-   characters, in one form for chapters, "Subject, No. X Berenbusch (years)", and one for
-   documents, "Type of document (date)". The page's H1 keeps the full title.
-9. **All folders, document pages:** MyST's built-in `{tab-set}` can put Translation and
-   Transliteration in two tabs, `{dropdown}` can hold docket details, and `{glossary}` with
-   `{term}` can replace the per-page glossaries with one list in `rentkammer/terms.md`. No page
-   uses any of these yet.
+1. **139:** extend the timeline through September 1849, add a `title:` to its `myst.yml` entry, rename "Other Documents" to "Sale Documents (1849)", and add a Genealogical Significance section.
+2. **147:** shorten its `myst.yml` title to match the H1, "New Settler Holding of Triftmeier, No. 19 in Berenbusch (1819-1820)", or a shorter form of it. The landing page is otherwise done.
+3. **1237:** move the regency section to "Rentkammer Explained", as the page's own TODO says. Give the page a real H1 instead of "Overview". Rebuild the timeline as one row per event starting 29 May 1798, with a link to each document. Fold the ten narrative sections into the document pages, and fold `doc4-extra.md` into `doc4.md`.
+4. **689:** replace the opening with two paragraphs on the debt to Hempel & Söhne and the 200 Reichsthaler loan. Keep the timeline. Move `amt-decree.md` and the service slip into a "Background documents" group in `myst.yml`, and put the numbering and analysis pages in a final "Supplementary notes" group or delete them.
+5. **146:** move the two-Jobst-Heinrichs argument into the Genealogical Significance section or onto its own page at the end, together with the two Document 1 analyses. Write a 139-style overview covering 1808–1810 and the 1850 sale.
+6. **1291:** write the overview from scratch. It has three petitioners (Krückeberg, Vogt, Brüggemann), so the timeline needs a "Party" column.
+7. **188:** keep it short, add the facts table and `myst.yml` titles, and either finish or drop `doc5.md`, `3-right.md` and `last-page.md`.
+8. **All folders, navigation:** give every `myst.yml` entry a `title:` of at most 40 characters, in one form for chapters, "Subject, No. X Berenbusch (years)", and one for documents, "Type of document (date)". The page's H1 keeps the full title.
+9. **All folders, document pages:** MyST's built-in `{tab-set}` can put Translation and Transliteration in two tabs, `{dropdown}` can hold docket details, and `{glossary}` with `{term}` can replace the per-page glossaries with one list in `rentkammer/terms.md`. No page uses any of these yet.
 
 ## Errors found along the way
 
@@ -83,5 +59,4 @@ All four errors from the first review are still present in jb2-nla, and a fifth 
 
 ## Next step
 
-Restructure 1237 first: its content already exists and only needs rearranging. 1291 and 188
-take the most work because their overviews have to be written, not moved.
+Restructure 1237 first: its content already exists and only needs rearranging. 1291 and 188 take the most work because their overviews have to be written, not moved.
