@@ -1,4 +1,4 @@
-# Petition of the New Settler Brüggemann (30 Sept. 1818)
+# Petition of the New Settler Brüggemann (3 Feb. 1818)
 
 *Listed in the case file's contents as:* Petition of the new settler Brüggemann No. 14 in Nordholz.
 
