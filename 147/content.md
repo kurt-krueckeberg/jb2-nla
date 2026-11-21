@@ -21,7 +21,7 @@
 * - 1\.
   - Petition of the lodger Driftmeier at No. 5 in Berenbusch, with chamber resolution.
     
-    Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam
+    *Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam*
   - {rspan}`7` Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
     
     Ausweisung vom Forstgründe für den Einlieger Triftmeier beÿ No. 5. zu Berenbusch betr.
@@ -40,7 +40,7 @@
 * - 2\.
   - Report of the local office.
     
-    Bericht hiesigen Amts.
+    *Bericht hiesigen Amts.*
   - "
     
     "
@@ -56,7 +56,7 @@
 * - 3\.
   - Draft royal rescript issued from the office here.
     
-    Conc. K. Rescript aus Amt dahier.
+    *Conc. K. Rescript aus Amt dahier.*
   - "
     
     "
@@ -72,7 +72,7 @@
 * - 4\.
   - Petition of the colonist Niemann No. 2 in Berenbusch, with chamber resolution.
     
-    Vorstellung des Colons Niemann No. 2. zu Berenbusch, cum Res. Cam.
+    *Vorstellung des Colons Niemann No. 2. zu Berenbusch, cum Res. Cam.*
   - "
     
     "
@@ -88,7 +88,7 @@
 * - 5\.
   - [Report of the Bückeburg office together with an attached drawing](doc5.md).
     
-    Bericht des Amts Bückeburg, samt Anlage einer Zeichnung
+    *Bericht des Amts Bückeburg, samt Anlage einer Zeichnung*
   - "
     
     "
@@ -104,7 +104,7 @@
 * - 6\.
   - Draft royal rescript to the office here; likewise to the chamber treasury.
     
-    Conc. K. Rescript ans Amt dahier. desgl. an die Kammercasse.
+    *Conc. K. Rescript ans Amt dahier. desgl. an die Kammercasse.*
   - "
     
     "
@@ -120,7 +120,7 @@
 * - 7\.
   - Chamber treasury receipt.
     
-    Kammercassenquitung
+    *Kammercassenquitung*
   - "
     
     "
@@ -136,7 +136,7 @@
 * - 8\.
   - Draft purchase contract for the lodger Triftmeier at No. 5 in Bärenbusch.
     
-    Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch
+    *Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch*
   - "
     
     "

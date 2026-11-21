@@ -37,42 +37,42 @@ signify an Rentkammer decision
   - Month
   - Day
 * - 1.
-  - [Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch](doc1-1.md)
+  - *Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch*
   - [Petition of the widow Krückeberg, Holding No. 10 in Berenbusch](doc1-1.md).
   - Bburg
   - 1824
   - July
   - 8
 * - "
-  - [Bericht des Amts Bückeberg](doc1-2.md)
+  - *Bericht des Amts Bückeberg*
   - [Report of the Bückeberg distrcit office](doc1-2.md).
   - "
   - "
   - "
   - 26
 * - "
-  - [Concept Rescript an die Wittwe Krückeberg](doc1-3.md)
+  - *Concept Rescript an die Wittwe Krückeberg*
   - [Drafted official reply (Rescript) to the widow Krückeberg](doc1-3.md).
   - "
   - "
   - Aug
   - 4
 * - "
-  - [Sim&#91;iliter&#93;: wapp&#91;oniert&#93; Schmöe, Kahlhuth und Creuzinger zu Baum](doc1-4.md)
+  - *Sim&#91;iliter&#93;: wapp&#91;oniert&#93; Schmöe, Kahlhuth und Creuzinger zu Baum*
   - [Likewise sealed/officially marked by Schmöe, Kahlhuth and Creuzinger of Baum](doc1-4.md).
   - "
   - "
   - "
   - "
 * - "
-  - [Concept Rescript aus Amt Bückeberg](doc1-5.md)
+  - *Concept Rescript aus Amt Bückeberg*
   - [Drafted official reply originating from the Office of Bückeberg](doc1-5.md).
   - "
   - "
   - "
   - "
 * - 2.
-  - [Bericht des Amts Bückeburg](doc2.md)
+  - *Bericht des Amts Bückeburg*
   - [Report of the district office of Bückeburg](doc2.md).
   - "
   - "

@@ -27,7 +27,7 @@ September of 1850.
 * - 1
   - [Petition submitted by the tailor Krückeberg in Evesen](doc1.md)
     
-    [Vorstellung von Schneider Krückeberg im Evesen](doc1.md)
+    *Vorstellung von Schneider Krückeberg im Evesen*
   - {rspan}`2` Concerning the petition of the tailor Krückeberg in Evesen for the designation (Ausweisung) of a plot for house construction near Bärenbusch.
     
     Pto Gesuch des Schneider Krückeberg in Evesen um Ausweisung eines Platzes zum Hausbau vor Bärenbusch.
@@ -36,9 +36,9 @@ September of 1850.
   - Sept
   - 29
 * - 2
-  - [Report of the administrative offices of Bückeburg and Arensburg](doc1.md)
+  - [Report of the administrative offices of Bückeburg and Arensburg](doc2.md)
     
-    [Bericht der Aemter Bückeb: u. Arensburg](doc1.md)
+    *Bericht der Aemter Bückeb: u. Arensburg*
   - "  "
   - "  "
   - Oct
@@ -46,7 +46,7 @@ September of 1850.
 * - 3
   - [Drafts of Cameral rescripts from the Office of Bückeburg](doc3.md)
     
-    [Concept Camr. Rescripts aus Amt Bückeburg](doc3.md)
+    *Concept Camr. Rescripts aus Amt Bückeburg*
   - "  "
   - "  "
   - "  "
@@ -54,7 +54,7 @@ September of 1850.
 * - 4
   - [Report of the administrative offices of Bückeburg and Arensburg](doc4.md)
     
-    [Bericht der Aemter Bückeburg u. Arensburg](doc4.md)
+    *Bericht der Aemter Bückeburg u. Arensburg*
   - {rspan}`2` Because of his financial circumstances and personal qualities,
     and also on account of the satisfaction of the common-pasture
     stakeholders.
@@ -68,7 +68,7 @@ September of 1850.
 * - 5
   - [Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg](doc5.md)
     
-    [Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg](doc5.md)
+    *Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg*
   - "  "
   - "  "
   - "  "
@@ -77,9 +77,9 @@ September of 1850.
     ad 6
   - [Report of the aforementioned administrative offices](doc6.md),[together with a geometrical (survey) drawing by Stille](ad6-survey-drawing.md)
     
-    [Bericht gedachter Aemter](doc6.md)
+    *Bericht gedachter Aemter*
     
-    [Ein geometische Zeichnung von Stille](ad6-survey-drawing.md)
+    *Ein geometische Zeichnung von Stille*
   - "  "
   - "  "
   - Oct
@@ -88,7 +88,7 @@ September of 1850.
   - [Drafts of Cameral rescripts from the Office of Bückeburg,
     also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](doc7.md)
     
-    [Concept Camr Rescripts ans Amt Bückeburg](doc7.md)
+    *Concept Camr Rescripts ans Amt Bückeburg*
   - {rspan}`5` Concerning the Cameral approval of the payment monies
     and the execution of the purchase deed.
     
@@ -98,7 +98,7 @@ September of 1850.
   - Nov.
   - 15
 * - 7
-  - [Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann](doc7.md)
+  - *Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann*
   - "  "
   - "  "
   - Nov.
@@ -107,7 +107,7 @@ September of 1850.
   - [Petition of the wife of the new settler Krückeberg,
     No. 18, in Berenbusch](doc8.md)
     
-    [Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch](doc8.md)
+    *Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch*
   - "  "
   - "  "
   - Decb.
@@ -115,7 +115,7 @@ September of 1850.
 * - 9
   - [Draft of a Cameral decree addressed to this colonist Krückeberg](doc9.md)
     
-    [Concept Camr Erlaß an diesen Kolon Krückeberg](doc9.md)
+    *Concept Camr Erlaß an diesen Kolon Krückeberg*
   - "  "
   - "  "
   - "  "
@@ -124,18 +124,18 @@ September of 1850.
   - [Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
     by the aforementioned Krückeberg](doc10.md)
     
-    [Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
-    gedachten Krückeberg](doc10.md)
+    *Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
+    gedachten Krückeberg*
   - "  "
   - "  "
   - "  "
   - "  "
 * - 11
   - [Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
-    concerning a building site for house construction and garden](doc10.md)
+    concerning a building site for house construction and garden](doc11.md)
     
-    [Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
-    und Garten](doc10.md)
+    *Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
+    und Garten*
   - "  "
   - "  "
   - "  "

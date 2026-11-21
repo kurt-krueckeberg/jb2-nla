@@ -12,8 +12,8 @@
 
 * - Nos
     (Nos.)
-  - Designatio Actorum
-    (Document Description)
+  - Document Description
+    (Designatio Actorum)
   - Amt
     (Office)
   - Jahre
@@ -25,15 +25,15 @@
 * - 1\.
   - [Petition of Colon Krückeberg No. 10 in Berenbusch, dated.](doc1.md)
     
-    [Vorstellung des Colons Krückeberg No: 10 zu Berenbusch, d.d.](doc1.md)
+    *Vorstellung des Colons Krückeberg No: 10 zu Berenbusch, d.d.*
   - Bburg
   - 1798
   - May
   - 29
 * - 2\.
-  - [Report on the matter from the Bückeburg officials, dated.](doc3.md)
+  - [Report on the matter from the Bückeburg officials, dated.](doc2.md)
     
-    [Desfallsiger Bericht der Beamten zu Bückeburg, d.d.](doc2.md)
+    *Desfallsiger Bericht der Beamten zu Bückeburg, d.d.*
   - 
   - 1799
   - Febr
@@ -41,7 +41,7 @@
 * - 3\.
   - [Draft of the Chamber’s official resolution to those aforementioned officials, dated](doc3.md)
     
-    [Concept Cammer Rescripts an gedachte Beamte, d.d.](doc3.md)
+    *Concept Cammer Rescripts an gedachte Beamte, d.d.*
   - 
   - 1800
   - Mart
@@ -49,7 +49,7 @@
 * - 4\.
   - [Report from the same officials.](doc4.md)
     
-    [Bericht von denselben Beamten](doc4.md)
+    *Bericht von denselben Beamten*
   - 
   - 1800
   - Oct
@@ -57,7 +57,7 @@
 * - 4 ½.
   - [Related report from Lieutenant Funck](doc4pt5.md)
     
-    [dazu gehöriger Bericht von Lieutenant Funck](doc4pt5.md)
+    *dazu gehöriger Bericht von Lieutenant Funck*
   - 
   - 
   - 
@@ -65,7 +65,7 @@
 * - 5\.
   - [Draft of Chamber’s official resolutions to the Bückeburg officials, and likewise to the fiscal treasurer Stackmann, dated](doc5.md)
     
-    [Concept Cammer Rescripts an die Beamten zu Bückeburg desgl. an den Cammerwahrmeister Stackmann d.d.](doc5.md)
+    *Concept Cammer Rescripts an die Beamten zu Bückeburg desgl. an den Cammerwahrmeister Stackmann d.d.*
   - 
   - 
   - 
@@ -73,7 +73,7 @@
 * - 6\.
   - [Draft purchase letter from the fiscal office for Colonus Krückeberg No. 10 in Berenbusch regarding a plot for the enlargement of his garden](doc6.md)
     
-    [Concept Kaufbrief der Rentkammer für den Colon Krückeberg No. 10 zu Berenbusch über einen Platz zur Vergrößerung seines Gartens](doc6.md)
+    *Concept Kaufbrief der Rentkammer für den Colon Krückeberg No. 10 zu Berenbusch über einen Platz zur Vergrößerung seines Gartens*
   - 
   - 
   - Dec
