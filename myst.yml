@@ -1,8 +1,6 @@
 version: 1
 project:
   title: Lower Saxony, Bückeburg Archive, Records
-  authors:
-    - name: Kurt Krueckeberg
   github: kurt-krueckeberg/jb2-nla
   bibliography:
     - bueckeburg-docs.bib
