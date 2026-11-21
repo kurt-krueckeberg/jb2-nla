@@ -36,7 +36,7 @@ Merged transliteration and translation
 * - 1\.
   - [Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure \[to No. 2\]](doc1.md)
     
-    [Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.](doc1.md)
+    *Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.*
   - Approval of a loan of 200 r.
     
     Bewilligung eines Darlehens ad 200 r.
@@ -47,7 +47,7 @@ Merged transliteration and translation
 * - 2\.
   - [Report of the Bückeburg District Office](doc2-1.md)
     
-    [Bericht Amts Bückeburg](doc2-1.md)
+    *Bericht Amts Bückeburg*
   - {rspan}`1` Funds from the Chamber Treasury
     
     Cour. aus Cammer-Casse
@@ -58,7 +58,7 @@ Merged transliteration and translation
 * - 〃
   - [Draft of Official Order of the Chamber to the same \[office\]](doc2-2.md)
     
-    [Cpt. KRes. an dasselbe](doc2-2.md)
+    *Cpt. KRes. an dasselbe*
   - 〃
   - 〃
   - 〃
@@ -66,7 +66,7 @@ Merged transliteration and translation
 * - 3\.
   - [Petition of Colon Krückeberg](doc3-1.md)
     
-    [Vorst\[ellung\]. des Colons Krückeberg](doc3-1.md)
+    *Vorst\[ellung\]. des Colons Krückeberg*
   - {rspan}`2` on condition of pledging all of his lands [as collateral].
     
     gegen Verpfändung seiner sämmtlichen Ländereien
@@ -77,7 +77,7 @@ Merged transliteration and translation
 * - 〃
   - [Memorandum of Senior Government Councillor von Reck](doc3-2.md)
     
-    [Vortrag des GKR od Reck](doc3-2.md)
+    *Vortrag des GKR od Reck*
   - 〃
   - 〃
   - 〃
@@ -85,7 +85,7 @@ Merged transliteration and translation
 * - 〃
   - [Draft of Official Order of the Chamber to Colon Krückeberg](doc3-3.md)
     
-    [Cpt. KRes. an p Krückeberg](doc3-3.md)
+    *Cpt. KRes. an p Krückeberg*
   - 〃
   - 〃
   - 〃
@@ -93,7 +93,7 @@ Merged transliteration and translation
 * - 4\.
   - [Petition of Colon Krückeberg](doc4-1.md)
     
-    [Vorst. des p Krückeberg](doc4-1.md)
+    *Vorst. des p Krückeberg*
   - 
   - Bbg.
   - 1841
@@ -102,7 +102,7 @@ Merged transliteration and translation
 * - 〃
   - [Draft of Official Order of the Chamber to Officer Creuzinger](doc4-2.md)
     
-    [Cpt. KRes. an Of. Creuzinger](doc4-2.md)
+    *Cpt. KRes. an Of. Creuzinger*
   - Further petition concerning the sale of his lands on the Söhren pasture
     
     item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
@@ -113,7 +113,7 @@ Merged transliteration and translation
 * - 5\.
   - [Report of Officer Creuzinger with attached site plan of the Söhren pasture](doc5.md)
     
-    [Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide](doc5.md)
+    *Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide*
   - 
   - Bbg.
   - 1841
@@ -122,7 +122,7 @@ Merged transliteration and translation
 * - 6\.
   - [Formal advisory submission by Privy Chancery Councillor Reck](doc6-1.md)
     
-    [Vortrag des GKR odReck](doc6-1.md)
+    *Vortrag des GKR odReck*
   - 
   - 〃
   - 〃
@@ -131,7 +131,7 @@ Merged transliteration and translation
 * - 〃
   - [Supreme official order of His Serene Highness](doc6-2.md)
     
-    [Höchstes Rescr. Ser. Reg.](doc6-2.md)
+    *Höchstes Rescr. Ser. Reg.*
   - 
   - 〃
   - 〃
@@ -140,8 +140,8 @@ Merged transliteration and translation
 * - 〃
   - [Filing note by Councillor Reck and the supreme official order of His Serene Highness](doc6-3.md)
     
-    [P. V. des H odReck u. Höchstes
-    Rescr. Sr. Durchlaucht](doc6-3.md)
+    *P. V. des H odReck u. Höchstes
+    Rescr. Sr. Durchlaucht*
   - 
   - 〃
   - 〃
@@ -150,7 +150,7 @@ Merged transliteration and translation
 * - 7\.
   - [Draft of Official Order of the Chamber to the Office of Bückeburg](doc7.md)
     
-    [Cpt. Rescr. aus \[sic: should be an\] Amt Bückeburg](doc7.md)
+    *Cpt. Rescr. aus \[sic: should be an\] Amt Bückeburg*
   - 
   - Bbg.
   - 1841
@@ -159,7 +159,7 @@ Merged transliteration and translation
 * - 8\.
   - [Report of the Office of Bückeburg](doc8-1.md)
     
-    [Bericht Amts Bückeburg](doc8-1.md)
+    *Bericht Amts Bückeburg*
   - 
   - Bbg.
   - 1842
@@ -168,7 +168,7 @@ Merged transliteration and translation
 * - 〃
   - [Draft of Official Order of the Chamber to the same](doc8-2.md)
     
-    [Cpt. KRes. an dasselbe](doc8-2.md)
+    *Cpt. KRes. an dasselbe*
   - 
   - 〃
   - 〃
@@ -177,7 +177,7 @@ Merged transliteration and translation
 * - 〃
   - [likewise to Privy Councillor Berger](doc8-3.md)
     
-    [desgl\[eichen\]. an den K. R. Berger](doc8-3.md)
+    *desgl\[eichen\]. an den K. R. Berger*
   - 
   - 〃
   - 〃
@@ -186,7 +186,7 @@ Merged transliteration and translation
 * - 9\.
   - [Report of the Office of Bückeburg](doc9.md)
     
-    [Bericht Amts Bückeburg](doc9.md)
+    *Bericht Amts Bückeburg*
   - 
   - Bbg.
   - 1842
@@ -195,7 +195,7 @@ Merged transliteration and translation
 * - 10\.
   - [Bond for 200 r. courant borrowed from the Princely Chamber Treasury](doc10.md)
     
-    [Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant](doc10.md)
+    *Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant*
   - Obligation.
     
     Obligation.
