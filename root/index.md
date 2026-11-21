@@ -1,7 +1,7 @@
 # Krückeberg-Related Archival Documents
 
 This site contains Krückeberg-related archival documents from the 18{sup}`th` and 19{sup}`th` century
-found in the Lower Saxony state archive in Bückeburg, Germany. 
+found in the Lower Saxony regional state archive in Bückeburg, Germany. 
 
 ```{list-table} Schaumburg-Lippe General Documents
 :header-rows: 1
