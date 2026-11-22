@@ -161,7 +161,7 @@ project:
                   title: "Purchase Deed for Krückeberg (10 Jan. 1810)"
 
             - file: 146/other-docs.md
-              title: Other Documents (1850)
+              title: Sale-Related Documents (1850)
               children:
                 - file: 146/overview-other-docs.md
                 - file: 146/petition-to-sell-cover-sheet.md

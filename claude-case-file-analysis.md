@@ -19,16 +19,9 @@ In `myst.yml` all seven folders start with `index.md` → `cover.md` → `conten
 188 has no `content.md` because it has no Designatio Actorum. Below that level they
 diverge:
 
-- **Case-file titles in `myst.yml`:** each uses a different form. 1237 and 188 carry no dates,
-  146 puts the dates after a comma, 147 runs to 121 characters, and 139 has no `title:` at all.
-  The 1291 title names "Einliegers Vogt & Nordholz" where the cover has Vogt and Brüggemann;
-  Nordholz is their village. These titles appear only in the website sidebar; the PDF takes its
-  chapter headings from the page headings.
 - **Document titles in `myst.yml`:** none carry dates. Many entries have no `title:`
   (1237/doc6, 1291/doc13, 18 and 21, eight in 689, all of 188), so the sidebar falls back to
   the page's long heading.
-- **Nesting:** fixed in the port. In 147, `doc5.md` now sits under `content.md`, as in every
-  other folder.
 - **Order:** 146 still puts two analysis pages ahead of Document 1, and 689 still puts
   `amt-decree.md` ahead of Document 1.
 - **Later documents:** 139 and 146 group them under `other-docs.md`; no other folder has such a
