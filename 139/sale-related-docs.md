@@ -1,4 +1,4 @@
-# Sale-Related Documents
+# Sale-Related Documents (1849)
 
 These documents are not listed in the [Designatio
 Actorum](content.md) (content list) and concern the sale of holding no. 10
