@@ -1,6 +1,6 @@
 # Clarifying *Stätte*, *Kolon*, and *Kolonat*
 
-In the Rentkammer documents you are working with, the terms **Stätte**,
+In the Rentkammer case file documents, the terms **Stätte**,
 **Kolon**, and **Kolonat** are interconnected as follows:
 
 1. **Stätte**: A *Stätte* was essentially a **recognized rural property
@@ -15,15 +15,9 @@ who had the usage rights and obligations on that property.
 property as a Kolon**. In other words, it describes the **tenure
 arrangement**. When we speak of a Kolonat, we mean the entire arrangement
 by which a Kolon holds and uses a Stätte under certain conditions
-(rents, duties, permissions) granted by the princely administration.
-
-## Usage in Rentkammer Case Files
-
-- When the title says *Die Stätte Nr. 18 zu Berenbusch*, it refers
-to that specific property.
-- When the document mentions *Colon Krückeberg*, it’s referring to
-the person (Krückeberg) who is the tenant-holder of that property.
-- When we talk about the *Kolonat*, we mean the **entire legal and
+(rents, duties, permissions) granted by the princely administration./
+/
+When we talk about the *Kolonat*, we mean the **entire legal and
 economic arrangement** under which Krückeberg holds and can transact the
 Stätte.
 

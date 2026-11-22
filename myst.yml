@@ -45,6 +45,7 @@ project:
         - file: rentkammer/rentkammer-and-kolonat-system.md
           title: Rentkammer Explained
           children:
+            - file: rentkammer/regency-period.md
             - file: rentkammer/staette-kolonat-kolon.md
             - file: rentkammer/case-file-docs-explained.md
             - file: rentkammer/workflow.md
