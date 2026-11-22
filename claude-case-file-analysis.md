@@ -115,6 +115,16 @@ leave a one-line link to it in the page it came from.
 7. **188:** keep it short, add the facts table, and either finish or drop `doc5.md`,
    `3-right.md` and `last-page.md`.
 
+## Rentkammer Section
+
+- It does not actually explain what the Rentkammer was or what its role in the government and
+  society was. This gapping hole needs to be filled in!
+- The other documents in this section don't seem at all related to one another.
+- "Case Files Explained" explains the interal routing and filing markings on the documents.
+  Thus the title of "Case Files Explained" should be removed. This file discusses the
+  administrative organization of the Rentkammer and how that is reflected on the routing and
+  filing information on the documents.
+
 ## Analysis to remove from the book
 
 The book presents the documents and what they show. Research analysis belongs with the
