@@ -204,7 +204,7 @@ project:
                 - file: 139/doc2.md
                   title: "Report of the Bückeburg Office (7 Aug. 1824)"
 
-            - file: 139/sale-related--docs.md
+            - file: 139/sale-related-docs.md
               title: Sale-Related Documents (1849)
               children:
                 - file: 139/jh-krueckeberg-petition-to-sell.md
