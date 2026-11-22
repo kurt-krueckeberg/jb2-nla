@@ -160,7 +160,7 @@ project:
                 - file: 146/doc11.md
                   title: "Purchase Deed for Krückeberg (10 Jan. 1810)"
 
-            - file: 146/other-docs.md
+            - file: 146/sale-related-docs.md
               children:
                 - file: 146/overview-other-docs.md
                 - file: 146/petition-to-sell-cover-sheet.md
@@ -204,7 +204,7 @@ project:
                 - file: 139/doc2.md
                   title: "Report of the Bückeburg Office (7 Aug. 1824)"
 
-            - file: 139/other-docs.md
+            - file: 139/sale-related--docs.md
               title: Sale-Related Documents (1849)
               children:
                 - file: 139/jh-krueckeberg-petition-to-sell.md
