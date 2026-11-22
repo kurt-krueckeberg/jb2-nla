@@ -161,7 +161,6 @@ project:
                   title: "Purchase Deed for Krückeberg (10 Jan. 1810)"
 
             - file: 146/other-docs.md
-              title: Sale-Related Documents (1850)
               children:
                 - file: 146/overview-other-docs.md
                 - file: 146/petition-to-sell-cover-sheet.md
@@ -188,7 +187,6 @@ project:
                   title: "Report of the Bückeburg Office, with Drawing (29 Oct. 1819)"
 
         - file: 139/index.md
-          title: "Krückeberg No. 10 Berenbusch: Labour Relief & Sale (1824–1849)"
           children:
             - file: 139/cover.md
             - file: 139/content.md
