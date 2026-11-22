@@ -118,12 +118,13 @@ leave a one-line link to it in the page it came from.
 ## Rentkammer Section
 
 - It does not actually explain what the Rentkammer was or what its role in the government and
-  society was. This gapping hole needs to be filled in!
-- The other documents in this section don't seem at all related to one another.
+  society was. This gapping hole needs to be filled in! We need to explain what the Rentkammer
+  was.
 - "Case Files Explained" explains the interal routing and filing markings on the documents.
   Thus the title of "Case Files Explained" should be removed. This file discusses the
   administrative organization of the Rentkammer and how that is reflected on the routing and
   filing information on the documents.
+- The other documents in this section don't seem at all related to one another.
 
 ## Analysis to remove from the book
 
