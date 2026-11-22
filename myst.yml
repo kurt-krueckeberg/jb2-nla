@@ -98,8 +98,8 @@ project:
             - file: 146/cover.md
             - file: 146/content.md
               children:
-                - file: 146/doc1-analysis.md
-                - file: 146/doc1-2nd-analysis.md
+              # - file: 146/doc1-analysis.md
+              # - file: 146/doc1-2nd-analysis.md
                 - file: 146/doc1.md
                 - file: 146/doc2.md
                 - file: 146/doc3.md

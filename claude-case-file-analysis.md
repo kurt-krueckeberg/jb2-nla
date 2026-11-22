@@ -28,6 +28,7 @@ group for their sale documents (`sale-related-docs.md`). Below that level:
   `amt-decree.md` ahead of Document 1.
 
   This analysis should really be removed and made part the genealogical analysis process.
+  Therefore, the two analysis files have been moved to a folder called `analysis/146`
 - **Pages not in the toc:** 18 pages are not listed in `myst.yml`: 13 in 689 (the twelve
   research files listed below and `service-slip-july-10-1841.md`), 4 in 188 (`doc5.md`,
   `3-right.md`, `last-page.md`, `todo.md`) and 1 in 1237 (`doc4-extra.md`).

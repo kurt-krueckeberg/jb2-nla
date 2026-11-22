@@ -1,6 +1,7 @@
 # =========================
 # Python / virtualenv
 # =========================
+x.html
 build_errors.txt
 .venv/
 __pycache__/
