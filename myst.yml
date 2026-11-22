@@ -291,6 +291,8 @@ site:
   options:
     folders: true
     style: _static/overrides.css
-    logo: _static/myst-style-light-bueckeburg-archive.svg
-    logo_dark: _static/myst-style-dark-bueckeburg-archive.svg
+#   logo: _static/myst-style-light-bueckeburg-archive.svg
+#   logo_dark: _static/myst-style-dark-bueckeburg-archive.svg
+    logo: _static/myst-style-light-schaumburg-lippe-archival-records.svg
+    logo_dark: _static/myst-style-dark-schaumburg-lippe-archival-records.svg
   template: book-theme
