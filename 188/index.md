@@ -12,7 +12,7 @@ in Berenbusch (1808-1810 & Sept. 1850)](../146/index.md) are included here. All 
 other documents include technical details of the sale. They are hard to
 decipher due to their poor legibility.
 
-The really important details are found in [Other Documents](../146/sale-related-docs.md) section of
+The really important details are found in [](../146/sale-related-docs.md) section of
 the case file [Holding No. 18 in Berenbusch (1808-1810 & Sept. 1850)](../146/index.md), which
 contains all the relevant details of the September 1850 sale of no. 18 Berenbusch.
 

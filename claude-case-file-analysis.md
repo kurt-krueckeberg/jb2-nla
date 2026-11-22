@@ -24,8 +24,6 @@ diverge:
   the page's long heading.
 - **Order:** 146 still puts two analysis pages ahead of Document 1, and 689 still puts
   `amt-decree.md` ahead of Document 1.
-- **Later documents:** 139 and 146 group them under `other-docs.md`; no other folder has such a
-  group.
 - **Pages not in the toc:** 18 pages are not listed in `myst.yml`: 13 in 689, 4 in 188 and 1 in
   1237 (`doc4-extra.md`; `actors.md` has been deleted).
 
