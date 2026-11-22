@@ -7,13 +7,12 @@
 *Call number:* [NLA BU, L 120a, D Nr. 188](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v11398990)
 
 Only the case file cover and the Abschrift (copy) of
-[N.C. 4386](../146/carl-fried-supplication-to-sell.md) from  case file [Holding No. 18
-in Berenbusch (1808-1810 & Sept. 1850)](../146/index.md) are included here. All the
+[N.C. 4386](../146/carl-fried-supplication-to-sell.md) from  case file [](../146/index.md) are included here. All the
 other documents include technical details of the sale. They are hard to
 decipher due to their poor legibility.
 
 The really important details are found in [](../146/sale-related-docs.md) section of
-the case file [Holding No. 18 in Berenbusch (1808-1810 & Sept. 1850)](../146/index.md), which
+the case file [](../146/index.md), which
 contains all the relevant details of the September 1850 sale of no. 18 Berenbusch.
 
 - [Copy of document N. C. 4386](doc1.md)
