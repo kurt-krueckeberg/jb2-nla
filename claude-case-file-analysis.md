@@ -21,11 +21,9 @@ In `myst.yml` all seven folders start with `index.md` → `cover.md` → `conten
 group for their sale documents (`sale-related-docs.md`). Below that level:
 
 - **Titles:** every case-file landing page and every document page has a short H1 with
-  a date, and every `title:` in `myst.yml` repeats its page's H1 exactly. The one
-  exception is `146/content.md`: its toc title is "Table of Contents (1808-1810)" and
-  its H1 is "Contents List". Since MyST uses the page's H1 when an entry has no
-  `title:`, the `title:` lines in the case-file section can be deleted; the sidebar
-  would then always match the printed heading.
+  a date. The case-file entries in `myst.yml` have no `title:` lines, so the sidebar
+  shows each page's H1, the same heading that prints in the PDF. Every contents page
+  has the H1 "Contents List".
 - **Order:** 146 still puts two analysis pages ahead of Document 1, and 689 still puts
   `amt-decree.md` ahead of Document 1.
 
@@ -68,9 +66,8 @@ This is done. Every page has a short heading written for family readers, and the
 archivists' or clerks' wording follows beneath it, labelled in plain English
 (*Archive's title:* on landing pages, *Listed in the case file's contents as:* on
 document pages). The heading is what prints as the chapter or section title in the PDF.
-What remains is to delete the now-redundant `title:` lines from the case-file entries
-in `myst.yml`, after which `146/content.md` will show "Contents List" like the other
-folders.
+The case-file entries in `myst.yml` no longer have `title:` lines, so the sidebar and
+the printed book use the same headings.
 
 The Latin term "Designatio Actorum" is explained once, on the Case Files Explained page, and
 plain-English labels are used everywhere else.
