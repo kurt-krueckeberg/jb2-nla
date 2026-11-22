@@ -30,8 +30,8 @@ third column.
   - Monat
   - Tag
 * - 1\.
-  - [Petition of the shoemaker Krückeberg No. 10 in Berenbusch.](doc1.md)
-    
+  - [Petition of the shoemaker Krückeberg No. 10 in Berenbusch.](doc1.md)\
+    \
     *Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.*
   - {rspan}`10` Allocation of forest land on the Söhre for Krückeberg No. 10 in Berenbusch, Vogt No. 13 in Nordholz, and Brüggemann No. 14 in Nordholz.
     
@@ -42,8 +42,8 @@ third column.
   - Jan.
   - 1\.
 * - 2\.
-  - [Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.](doc2.md)
-    
+  - [Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.](doc2.md)\
+    \
     *Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
     zum Baum mit Zeichnung.*
   - Bburg
@@ -51,80 +51,80 @@ third column.
   - Febr
   - 3
 * - 3\.
-  - [Prepared official decision of the Princely Finance Office to the local office.](doc3.md)
-    
+  - [Prepared official decision of the Princely Finance Office to the local office.](doc3.md)\
+    \
     *Conc. K. Rescript ans Amt dahier.*
   - Bburg
   - 1817
   - Febr.
   - 13
 * - 4\.
-  - [Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.](doc4.md)
-    
+  - [Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.](doc4.md)\
+    \
     *Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:*
   - Bburg
   - 1817
   - Novbr
   - 3
 * - 5\.
-  - [Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.](doc5.md)
-    
+  - [Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.](doc5.md)\
+    \
     *desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum Res. Cam.*
   - Bburg
   - 1817
   - Decbr.
   - 15\.
 * - 6\.
-  - [Report of the local office.](doc6.md)
-    
+  - [Report of the local office.](doc6.md)\
+    \
     *Bericht hiesigen Amts.*
   - Bburg
   - 1817
   - Decbr
   - 31\.
 * - 7\.
-  - [Prepared official decision of the Princely Finance Office to the local office.](doc7.md)
-    
+  - [Prepared official decision of the Princely Finance Office to the local office.](doc7.md)\
+    \
     *Conc. K. Rescript ans Amt dahier.*
   - Bburg
   - 1818
   - Jan
   - 13
 * - 8\.
-  - [Report of the local office, together with drawing.](doc8.md)
-    
+  - [Report of the local office, together with drawing.](doc8.md)\
+    \
     *Bericht hiesigen Amts, samt Zeichnung.*
   - Bburg
   - 1818
   - Febr.
   - 16\.
 * - 9\.
-  - [Prepared official decision of the Princely Finance Office, based on a submission from the local office.](doc9.md)
-    
+  - [Prepared official decision of the Princely Finance Office, based on a submission from the local office.](doc9.md)\
+    \
     *[Conc. K. Rescript aus hiesige\[m](doc9.md) Amt.]*
   - Bburg
   - 1818
   - Febr.
   - 26
 * - 10\.
-  - [Petition of Vogt from Nordholz, together with drawing.](doc10.md)
-    
+  - [Petition of Vogt from Nordholz, together with drawing.](doc10.md)\
+    \
     *Vorstellung von Vogt aus Nordholz, samt Zeichnung.*
   - Bburg
   - 1818
   - Maÿ.
   - 24\.
 * - 11\.
-  - [Report of the local office, together with drawing and specification.](doc11.md)
-    
+  - [Report of the local office, together with drawing and specification.](doc11.md)\
+    \
     *Bericht hiesigen Amts, samt Zeichnung mit Specification.*
   - Bburg
   - 1818
   - Maÿ.
   - 30\.
 * - 12\.
-  - [Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.](doc12.md)
-    
+  - [Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.](doc12.md)\
+    \
     *Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.*
   - 
   - Bburg
@@ -132,8 +132,8 @@ third column.
   - Junÿ
   - 17
 * - 13\.
-  - [Treasury receipt.](doc13.md)
-    
+  - [Treasury receipt.](doc13.md)\
+    \
     *Kammercassenquittung.*
   - 
   - Bburg
@@ -141,8 +141,8 @@ third column.
   - Sept
   - 14\.
 * - 14\.
-  - [Petition of the new settler Brüggemann No. 14 in Nordholz.](doc14.md)
-    
+  - [Petition of the new settler Brüggemann No. 14 in Nordholz.](doc14.md)\
+    \
     *Vorstellung des Neubauers Brüggemann No 14. in Nordholz.*
   - 
   - Bburg
@@ -150,8 +150,8 @@ third column.
   - Sept
   - 30
 * - 15\.
-  - [Prepared official decision of the Princely Finance Office addressed to the aforementioned.](doc15.md)
-    
+  - [Prepared official decision of the Princely Finance Office addressed to the aforementioned.](doc15.md)\
+    \
     *Conc. K. Resolution an Vorhin genannten.*
   - 
   - Bburg
@@ -159,8 +159,8 @@ third column.
   - Oct
   - 7
 * - 16\.
-  - [Petition of the shoemaker Krückeberg No. 10 in Berenbusch.](doc16.md)
-    
+  - [Petition of the shoemaker Krückeberg No. 10 in Berenbusch.](doc16.md)\
+    \
     *Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.*
   - {rspan}`1` Concerning the remission of the purchase price that had been deducted.
     
@@ -170,16 +170,16 @@ third column.
   - Sept
   - 7
 * - 17\.
-  - [Prepared official decision of the Princely Finance Office addressed to the same.](doc17.md)
-    
+  - [Prepared official decision of the Princely Finance Office addressed to the same.](doc17.md)\
+    \
     *Conc. K. Resolution an denselben*
   - Bburg
   - 1818
   - Oct.
   - 7
 * - 18\.
-  - [Treasury receipt.](doc18.md)
-    
+  - [Treasury receipt.](doc18.md)\
+    \
     *Kammercassenquittung*
   - {rspan}`4` Concerning the allocation of land.
     
@@ -189,32 +189,32 @@ third column.
   - Oct.
   - 27
 * - 19\.
-  - [Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.](doc19.md)
-    
+  - [Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.](doc19.md)\
+    \
     *Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch*
   - Bburg
   - 1818
   - Novbr
   - 16
 * - 20\.
-  - [Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.](doc20.md)
-    
+  - [Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.](doc20.md)\
+    \
     *desgl. für den Neubauer Vogt No 13. zu Nordholz.*
   - Bburg
   - 1818
   - Novbr
   - 16
 * - 21\.
-  - [Treasury receipt.](doc21.md)
-    
+  - [Treasury receipt.](doc21.md)\
+    \
     *Kammercassenquittung.*
   - Bburg
   - 1818
   - Novbr.
   - 4
 * - 22\.
-  - [Prepared purchase contract for Brüggemann No. 14 in Nordholz.](doc22.md)
-    
+  - [Prepared purchase contract for Brüggemann No. 14 in Nordholz.](doc22.md)\
+    \
     *Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.*
   - Bburg
   - 1818
