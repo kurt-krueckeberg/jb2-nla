@@ -25,8 +25,8 @@ September of 1850.
   - Monat
   - Tag
 * - 1
-  - [Petition submitted by the tailor Krückeberg in Evesen](doc1.md)
-    
+  - [Petition submitted by the tailor Krückeberg in Evesen](doc1.md)\
+    \
     *Vorstellung von Schneider Krückeberg im Evesen*
   - {rspan}`2` Concerning the petition of the tailor Krückeberg in Evesen for the designation (Ausweisung) of a plot for house construction near Bärenbusch.
     
@@ -36,24 +36,24 @@ September of 1850.
   - Sept
   - 29
 * - 2
-  - [Report of the administrative offices of Bückeburg and Arensburg](doc2.md)
-    
+  - [Report of the administrative offices of Bückeburg and Arensburg](doc2.md)\
+    \
     *Bericht der Aemter Bückeb: u. Arensburg*
   - "  "
   - "  "
   - Oct
   - 21
 * - 3
-  - [Drafts of Cameral rescripts from the Office of Bückeburg](doc3.md)
-    
+  - [Drafts of Cameral rescripts from the Office of Bückeburg](doc3.md)\
+    \
     *Concept Camr. Rescripts aus Amt Bückeburg*
   - "  "
   - "  "
   - "  "
   - 31
 * - 4
-  - [Report of the administrative offices of Bückeburg and Arensburg](doc4.md)
-    
+  - [Report of the administrative offices of Bückeburg and Arensburg](doc4.md)\
+    \
     *Bericht der Aemter Bückeburg u. Arensburg*
   - {rspan}`2` Because of his financial circumstances and personal qualities,
     and also on account of the satisfaction of the common-pasture
@@ -66,8 +66,8 @@ September of 1850.
   - Jan.
   - 12
 * - 5
-  - [Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg](doc5.md)
-    
+  - [Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg](doc5.md)\
+    \
     *Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg*
   - "  "
   - "  "
@@ -75,10 +75,10 @@ September of 1850.
   - 23
 * - 6
     ad 6
-  - [Report of the aforementioned administrative offices](doc6.md),[together with a geometrical (survey) drawing by Stille](ad6-survey-drawing.md)
-    
-    *Bericht gedachter Aemter*
-    
+  - [Report of the aforementioned administrative offices](doc6.md),[together with a geometrical (survey) drawing by Stille](ad6-survey-drawing.md)\
+    \
+    *Bericht gedachter Aemter*\
+    \
     *Ein geometische Zeichnung von Stille*
   - "  "
   - "  "
@@ -86,8 +86,8 @@ September of 1850.
   - 28
 * - 7
   - [Drafts of Cameral rescripts from the Office of Bückeburg,
-    also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](doc7.md)
-    
+    also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](doc7.md)\
+    \
     *Concept Camr Rescripts ans Amt Bückeburg*
   - {rspan}`5` Concerning the Cameral approval of the payment monies
     and the execution of the purchase deed.
@@ -105,16 +105,16 @@ September of 1850.
   - 15
 * - 8
   - [Petition of the wife of the new settler Krückeberg,
-    No. 18, in Berenbusch](doc8.md)
-    
+    No. 18, in Berenbusch](doc8.md)\
+    \
     *Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch*
   - "  "
   - "  "
   - Decb.
   - 7
 * - 9
-  - [Draft of a Cameral decree addressed to this colonist Krückeberg](doc9.md)
-    
+  - [Draft of a Cameral decree addressed to this colonist Krückeberg](doc9.md)\
+    \
     *Concept Camr Erlaß an diesen Kolon Krückeberg*
   - "  "
   - "  "
@@ -122,8 +122,8 @@ September of 1850.
   - 12
 * - 10
   - [Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
-    by the aforementioned Krückeberg](doc10.md)
-    
+    by the aforementioned Krückeberg](doc10.md)\
+    \
     *Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
     gedachten Krückeberg*
   - "  "
@@ -132,8 +132,8 @@ September of 1850.
   - "  "
 * - 11
   - [Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
-    concerning a building site for house construction and garden](doc11.md)
-    
+    concerning a building site for house construction and garden](doc11.md)\
+    \
     *Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
     und Garten*
   - "  "
