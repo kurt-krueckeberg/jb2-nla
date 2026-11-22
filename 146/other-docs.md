@@ -1,4 +1,4 @@
-# Other Documents
+# Sale-Related Documents
 
 These documents all date from September 1850 and concern the sale of the
 tenancy rights to Stätte no. 18 Berenbusch, which Carl Friedrich Krückeberg
