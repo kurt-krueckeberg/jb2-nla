@@ -1,6 +1,6 @@
 # Contents List
 
-## Designation Actorum
+## Designatio Actorum
 
 The first column represents a **procedural unit /docket item (Actenpunkt)**.
 Each Actenpunkt corresponds to **one administrative step in the handling of
