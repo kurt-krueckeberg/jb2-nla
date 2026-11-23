@@ -44,11 +44,10 @@ project:
       children:
         - file: rentkammer/what-was-the-rentkammer.md
           children:
-            - file: rentkammer/rentkammer-and-kolonat-system.md
             - file: rentkammer/regency-period.md
             - file: rentkammer/staette-kolonat-kolon.md
-            - file: rentkammer/case-file-docs-explained.md
             - file: rentkammer/workflow.md
+            - file: rentkammer/case-file-docs-explained.md
             - file: rentkammer/terms.md
               title: Rentkammer Terms
 

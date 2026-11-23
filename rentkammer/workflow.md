@@ -1,113 +1,43 @@
-# Rentkammer Workflow and Terminology
+# How a Case Moved Through the Rentkammer
 
-This is the typical Rentkammer workflow.
+A Rentkammer case usually followed the same path, whether the matter was a
+garden enlargement, a forest allotment, a loan, or a sale. The steps below
+are illustrated with case file 689, Johann Heinrich Krückeberg's request for
+a loan in 1841. The numbers and notes mentioned are explained in
+[Reading a Case File](case-file-docs-explained.md).
 
-## 1. Main kinds of numbers
+1. **Petition.** A Kolon submitted a petition (*Vorstellung* or *Gesuch*),
+   addressed to the prince. When it reached the Rentkammer it received an NC
+   number and the date of arrival. Krückeberg's
+   [petition](../689/doc1.md) arrived on 2 October 1841 as NC 4381.
 
-N. or Num: Cam:
-: The Kammer file number for the case.
+2. **Request for a report.** The Rentkammer rarely decided at once. It sent
+   the petition, or an order (*Rescript*), to the local Amt and asked for a
+   report. The Amt registered the paper under its own Nr pr number.
+   Krückeberg's petition was sent to the Amt Bückeburg, which registered it
+   as its number 1274.
 
-Num: Pr: or N: pr.
-: The entry number assigned when that specific document was entered in the Kammer’s register of received or sent documents.
+3. **Investigation and report.** The Amt looked into the matter. It might
+   summon the people involved to a hearing at the Amt and record it in a
+   *Protokoll*, or ask the forestry officials when forest land was concerned.
+   It then sent its report (*Bericht*) to the Rentkammer, where the report
+   received a new NC number. The Amt's [report](../689/doc2-1.md) of
+   7 October 1841 became NC 4487.
 
-ad N: C. …​ anni …​
-: A cross-reference to another Kammer file. It means that the present document is to be associated with, compared with, or filed in relation to that earlier or related case.
+4. **Decision.** The Rentkammer decided, sometimes after a written opinion by
+   one of its councillors and, in larger matters, after an order from the
+   prince himself. In case file 689, Councillor von Reck valued Krückeberg's
+   holding, and the prince's [order](../689/doc6-2.md) of 19 December 1841
+   preceded the decision.
 
-## 2. Documents that received Num: Pr:
+5. **Orders sent out.** A clerk wrote the Rentkammer's order as a draft
+   (*Concept*). A fair copy was made and sent, and the draft stayed in the
+   case file. Orders went to the Amt, to the petitioner, and where money was
+   involved to the treasury. On 20 January 1842 the Rentkammer instructed
+   Treasurer Berger to pay the 200 Reichsthaler of the loan to the Amt
+   Bückeburg ([order](../689/doc8-3.md)).
 
-These were documents that physically arrived at the Kammer or were officially sent out from it.
-
-Typical examples:
-
-- petitions from settlers
-- reports from the Amt Bückeburg
-- reports from officials, such as Oberförster Falckmann
-- official instructions sent from the Kammer to an Amt
-
-These were entered in the Kammer’s register of documents, so they received a Pr: number.
-
-## 3. Documents that do not have Num: Pr:
-
-These are usually working papers inside the Kammer.
-
-Examples:
-
-- Concept — the draft of a letter or decision
-- calculations of money owed
-- internal notes or summaries
-- copies placed in the file
-
-These were never sent or received as separate documents, so they were not entered in the register and therefore have no Pr: number.
-
-## 4. Meaning of the ad …​ notations
-
-These are not the main file number of the present document. They are cross-references.
-
-For example:
-
-ad N: C. 62. anni 1817
-: Under Kammer no. 62 of the year 1817.
-
-ad N: C. 168 & 101 anni 1818
-: Under Kammer nos. 168 and 101 of the year 1818.
-
-These notes mean that the present paper is connected with those other Kammer files. They were usually added as filing or routing notes, often in a smaller or different hand.
-
-## 5. How a typical case moved
-
-Very simplified:
-
-1. Petition arrives → entered in register → gets Pr: number
-2. Kammer prepares a Concept (draft reply) → not registered
-3. Kammer sends an official instruction (Rescript) to the Amt → registered → Pr:
-4. Amt sends back a report (Bericht) → registered → Pr:
-5. Internal calculations or notes → not registered
-6. Clerks add cross-references such as ad N: C. …​ to connect the paper with related Kammer files
-
-## 6. Meaning of the main terms
-
-Concept
-: Draft of a letter or decision.
-
-Rescript
-: The official written decision or instruction sent by the Kammer.
-
-Bericht
-: A report sent back by an Amt or official.
-
-So the main distinction is this:
-
-- N. / Num: Cam: = the Kammer file number of the present case
-- Num: Pr: = the register-entry number of the present document
-- ad N: C. …​ = references to other related Kammer files
-
-### Terminology Clarification
-
-These terms often appear the case file documents. They can be **false
-friends** whose actual meaning differs from their apparent meaning.
-This table clarifies their actual meaning.
-
-```{list-table}
-:header-rows: 1
-
-* - Term
-  - Misleadingly Looks like
-  - Actual meaning in the file
-* - **Concept (Conc.)**
-  - idea
-  - office copy kept in the file
-* - **Rescript**
-  - something written
-  - formal order from a superior authority
-* - **Protocol / Protocollo**
-  - procedure rules
-  - the official written record
-    or register
-* - **Ausweisung**
-  - expulsion / identification
-  - allotment of land
-* - **Exp. / Ex. (Expedite)**
-  - 
-  - issued / dispatched
-```
-
+6. **Completion.** A case could end with a purchase deed or contract for land,
+   a treasury receipt for fees paid, or a promissory note for a loan. The
+   papers were filed together, and the clerk's contents list, the
+   *Designatio Actorum*, recorded each item in order.

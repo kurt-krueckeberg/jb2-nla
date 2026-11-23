@@ -44,7 +44,7 @@ forest land, founding a new holding, borrowing money, or selling a holding all t
 land, services, or dues that belonged to the ruler. These were therefore Rentkammer
 matters. The Rentkammer did not act alone: it asked the local *Amt Bückeburg*, and where
 forest land was concerned the forestry officials, for reports before deciding. How that
-worked is described in [Rentkammer Workflow](workflow.md).
+worked is described in [How a Case Moved Through the Rentkammer](workflow.md).
 
 ## Where the records are today
 

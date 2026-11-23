@@ -1,23 +1,24 @@
 # The Regency Period
 
-On 13 February 1787 **Count Philipp II Ernst** died His, and his young son **Georg
-Wilhelm (born 20 December 1784)** inherited the title at age two on that
-date. Because he was too young to govern, the country was administered by
-a regency — a guardianship government acting in his name.
+Count Philipp II Ernst of Schaumburg-Lippe died on 13 February 1787. His son
+and heir, Georg Wilhelm, born on 20 December 1784, was two years old. Because
+he was too young to govern, the country was ruled in his name by a guardian
+(*Vormund*). His mother governed as guardian until her unexpected death in
+1799; Count von Wallmoden then took over the guardianship.[^regents] This
+period is known in German as the *Vormundschaft* or *vormundschaftliche
+Regierung* (guardianship government).
 
-This period is known in German as the Vormundschaftszeit (guardianship or
-regency period).
+The Rentkammer went on working as usual during these years. Its documents
+call it the *vormundschaftliche Rentkammer*, the Rentkammer acting under the
+guardianship government. This does not mean a separate office; it was the
+ordinary Rentkammer, acting in the name of a ruler who was still a child. The
+purchase deed of 1 December 1800 for Jobst Heinrich Krückeberg, for example,
+was issued under the guardianship chamber seal (*vormundschaftliches
+Cammersiegel*).[^deed]
 
-The Rentkammer was the central government office responsible for financial
-and property matters, such as land administration, taxes, and estate
-management. It continued to operate as usual during the regency.
+Jobst Heinrich Krückeberg's petition of 1798 to enlarge his garden, case file
+[1237](../1237/index.md), was therefore made to the Rentkammer of the
+regency.
 
-The term **vormundschaftliche Rentkammer** does not mean there was a separate
-or special Rentkammer. It simply indicates that the ordinary Rentkammer
-was functioning under the authority of the regency government rather than
-under a fully reigning adult ruler.
-
-It was before the **vormundschaftliche Rentkammer** that Jobst Heinrich
-Krückeberg made his petition.
-
-
+[^regents]: Stefan Meyer, *Georg Wilhelm Fürst zu Schaumburg-Lippe (1784–1860): Absolutistischer Monarch und Großunternehmer an der Schwelle zum Industriezeitalter*, Schaumburger Studien 65 (Bielefeld: Verlag für Regionalgeschichte, 2007), as summarized in the review by Wilfried Reininghaus, *sehepunkte* 7, no. 6 (15 June 2007), <http://www.sehepunkte.de/2007/06/12924.html>.
+[^deed]: Purchase deed for Krückeberg, 1 Dec. 1800, NLA BU, K 2, A Nr. 1237; see [transliteration](../1237/doc6.md).

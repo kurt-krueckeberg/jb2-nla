@@ -15,9 +15,5 @@ who had the usage rights and obligations on that property.
 property as a Kolon**. In other words, it describes the **tenure
 arrangement**. When we speak of a Kolonat, we mean the entire arrangement
 by which a Kolon holds and uses a Stätte under certain conditions
-(rents, duties, permissions) granted by the princely administration./
-/
-When we talk about the *Kolonat*, we mean the **entire legal and
-economic arrangement** under which Krückeberg holds and can transact the
-Stätte.
+(rents, duties, permissions) granted by the princely administration.
 
