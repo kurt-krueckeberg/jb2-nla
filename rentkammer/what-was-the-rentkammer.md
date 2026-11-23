@@ -18,7 +18,7 @@ From then on there were three central bodies:
 - the **Justizkanzlei**, for law and courts,
 - the **Rentkammer**, for the ruler's property and revenue.
 
-The archivists note that the boundaries between these offices were never perfectly
+The archivist Dr. Martin Fimpel notes that the boundaries between these offices were never perfectly
 sharp.[^l2b]
 
 ## What the Rentkammer managed

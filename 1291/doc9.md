@@ -19,7 +19,7 @@
 ```{div}
 :class: doc-text
 ad. Num: Cam: 101.\
-ad. Num. Praes. 831.\
+ad. Num. Praef. 831.\
 Concept.
 
 9.,
@@ -90,7 +90,7 @@ both square feet and acres.
 ```{div}
 :class: doc-text
 ad. Num: Cam: 101\
-ad. Num. Praes. 831.\
+ad. Num. Praef. 831.\
 Draft
 
 Document 9
