@@ -6,8 +6,6 @@
 :class: image-override
 ```
 
-## Translation and Translation
-
 ## Transliteration
 
 ```text

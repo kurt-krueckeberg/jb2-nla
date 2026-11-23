@@ -14,6 +14,10 @@ Krückeberg family history, so every recommendation here must work on paper as w
 on the website, and the wording of the Bückeburg archivists and the Rentkammer clerks
 is quoted, never rewritten. Nothing in the repository was changed for this review.
 
+## Content of Rentkammer Case Files Explained
+
+See the [claude link](https://claude.ai/share/313b822d-07c9-48e8-b1dd-3325a8388898).
+
 ## Navigation consistency
 
 In `myst.yml` all seven folders start with `index.md` → `cover.md` → `content.md`;
