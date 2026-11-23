@@ -43,7 +43,7 @@ has **2** written there:
 ```
 
 **TODO: What follows below needs to be check against _Die Schaumburg-Lippischen Archive und zentral Registraturen. Ihre Geschichte und ihr Inhalt 
-(Veröffentlichungen der niedersächsischen Archivverwaltung 4)_, Göttingen 1955, by Franz Engel. 
+(Veröffentlichungen der niedersächsischen Archivverwaltung 4)_, Göttingen 1955, by Franz Engel.** 
  
 ## Two offices, two sets of numbers
 
