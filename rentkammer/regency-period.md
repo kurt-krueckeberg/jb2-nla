@@ -9,15 +9,20 @@ known in German as the *Vormundschaft* or *vormundschaftliche Regierung* (regenc
 
 The Rentkammer went on working as usual during these years. Its documents
 call it the *vormundschaftliche Rentkammer*, the Rentkammer acting under the
-guardianship government. This does not mean a separate office; it was the
-ordinary Rentkammer, acting in the name of a ruler who was still a child. The
+regency. This does not mean a separate office; it was the ordinary
+Rentkammer, acting in the name of a ruler who was still a child. The
 purchase deed of 1 December 1800 for Jobst Heinrich Krückeberg, for example,
-was issued under the guardianship chamber seal (*vormundschaftliches
+was issued under the regency's chamber seal (*vormundschaftliches
 Cammersiegel*).[^deed]
 
 Jobst Heinrich Krückeberg's petition of 1798 to enlarge his garden, case file
 [1237](../1237/index.md), was therefore made to the Rentkammer of the
 regency.
 
-[^regents]: Stefan Meyer, *Georg Wilhelm Fürst zu Schaumburg-Lippe (1784–1860): Absolutistischer Monarch und Großunternehmer an der Schwelle zum Industriezeitalter*, Schaumburger Studien 65 (Bielefeld: Verlag für Regionalgeschichte, 2007), as summarized in the review by Wilfried Reininghaus, *sehepunkte* 7, no. 6 (15 June 2007), <http://www.sehepunkte.de/2007/06/12924.html>.
-[^deed]: Purchase deed for Krückeberg, 1 Dec. 1800, NLA BU, K 2, A Nr. 1237; see [transliteration](../1237/doc6.md).
+[^regents]: Stefan Meyer, *Georg Wilhelm Fürst zu Schaumburg-Lippe (1784–1860):
+Absolutistischer Monarch und Großunternehmer an der Schwelle zum Industriezeitalter*,
+Schaumburger Studien 65 (Bielefeld: Verlag für Regionalgeschichte, 2007), as summarized in the
+review by Wilfried Reininghaus, *sehepunkte* 7, no. 6 (15 June 2007),
+<http://www.sehepunkte.de/2007/06/12924.html>.
+[^deed]: Purchase deed for Krückeberg, 1 Dec. 1800, NLA BU, K 2, A Nr. 1237; see
+[transliteration](../1237/doc6.md).
