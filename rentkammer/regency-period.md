@@ -2,10 +2,10 @@
 
 When Count Philipp II Ernst of Schaumburg-Lippe died on 13 February 1787, his son and heir,
 Georg Wilhelm, born on 20 December 1784, was two years old. Because he was too young to govern,
-the country was ruled in his name by a guardian (*Vormund*), his mother,n until her unexpected
+the country was ruled in his name by a guardian (*Vormund*), his mother, until her unexpected
 death in 1799; Count von Wallmoden then took over the guardianship.[^regents] This period is
-known in German as the *Vormundschaft* or *vormundschaftliche Regierung* (guardianship
-government).
+known in German as the *Vormundschaft* or *vormundschaftliche Regierung* (regency; literally,
+'guardianship government').
 
 The Rentkammer went on working as usual during these years. Its documents
 call it the *vormundschaftliche Rentkammer*, the Rentkammer acting under the
