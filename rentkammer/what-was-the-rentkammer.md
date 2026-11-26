@@ -39,7 +39,9 @@ example, was appointed Kammerrat at the "Fürstliche Rentkammer zu Bückeburg" i
 ## Why the Krückebergs dealt with the Rentkammer
 
 The Krückeberg holdings in Berenbusch were held under the Kolonat (see
-[Stätte, Kolon, and Kolonat](staette-kolonat-kolon.md)). Enlarging a garden, receiving
+[Stätte, Kolon, and Kolonat](staette-kolonat-kolon.md)). The Krückebergs did
+not own these holdings: the land belonged to the ruler, and they held only a
+hereditary right to use it. Enlarging a garden, receiving
 forest land, founding a new holding, borrowing money, or selling a holding all touched
 land, services, or dues that belonged to the ruler. These were therefore Rentkammer
 matters. The Rentkammer did not act alone: it asked the local *Amt Bückeburg*, and where
