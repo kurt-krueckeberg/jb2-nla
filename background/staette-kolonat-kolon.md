@@ -5,7 +5,7 @@ In the case files, the Krückebergs and their neighbours appear as the *Kolon*
 This did not mean that they owned the house and land in the modern sense. The
 land belonged to a lord, the *Grundherr*. For the holdings in this book that
 lord was the ruler of Schaumburg-Lippe, and the Rentkammer managed his property
-(see [What Was the Rentkammer?](what-was-the-rentkammer.md)). The Kolon held a
+(see [What Was the Rentkammer?](../rentkammer/what-was-the-rentkammer.md)). The Kolon held a
 hereditary right to live on the holding and use it, and in return he owed dues
 and labour services. He could not divide the holding, and he could sell it or
 borrow against it only with the lord's consent. This is why so many of the case
