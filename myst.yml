@@ -26,6 +26,10 @@ project:
   toc:
     - file: root/index.md
 
+    - title: Background
+      children:
+        - file: background/staette-kolonat-kolon.md
+
     - title: General Documents
       children:
         - file: general-docs/overview.md
@@ -45,7 +49,6 @@ project:
         - file: rentkammer/what-was-the-rentkammer.md
           children:
             - file: rentkammer/regency-period.md
-            - file: rentkammer/staette-kolonat-kolon.md
             - file: rentkammer/workflow.md
             - file: rentkammer/case-file-docs-explained.md
             - file: rentkammer/terms.md
