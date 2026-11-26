@@ -1,7 +1,8 @@
 # Stätte, Kolon, and Kolonat
 
 In the case files, the Krückebergs and their neighbours appear as the *Kolon*
-(or *Colon*) of a numbered *Stätte*, such as Krückeberg No. 10 in Berenbusch.
+(or *Colon*) of a numbered *Stätte* (literally "site"; here, a holding),
+such as Krückeberg No. 10 in Berenbusch.
 This did not mean that they owned the house and land in the modern sense. The
 land belonged to a lord, the *Grundherr*. For the holdings in this book that
 lord was the ruler of Schaumburg-Lippe, and the Rentkammer managed his property
