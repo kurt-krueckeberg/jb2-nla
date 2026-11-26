@@ -2,17 +2,10 @@
 
 See what to do next: https://claude.ai/share/daeb7bdb-3352-4bee-84de-89682234c02f
 
-22 Nov 2026 · Kurt Krueckeberg
-
-The project now lives in [jb2-nla](https://github.com/kurt-krueckeberg/jb2-nla)
-(Jupyter Book 2), and its navigation is the `toc:` section of `myst.yml`. The toc keeps
-the structure of the old `_toc.yml`, but every case file and every document now has a
-short, dated title. The seven Rentkammer case-file folders are consistent at the top
-level and in their titles, and folder 139 is still the best model for a landing page.
-The end goal is a printed book made from the Typst PDF, written for readers of the
-Krückeberg family history, so every recommendation here must work on paper as well as
-on the website, and the wording of the Bückeburg archivists and the Rentkammer clerks
-is quoted, never rewritten. Nothing in the repository was changed for this review.
+```{note}
+After making the changes mentioned below, then go through the individual pages of each
+case file folder and make them more coherent.
+```
 
 ## Content of Rentkammer Case Files Explained
 
